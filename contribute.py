@@ -235,14 +235,46 @@ def sort_loose_files(scan_dir, dest_prefix, texture_dir, moved):
         moved.append((dest_prefix, scene, fname))
 
 
+def find_in_untranslated(texture_dir, fname):
+    """Return all paths under _untranslated/ that match fname."""
+    untranslated_dir = os.path.join(texture_dir, '_untranslated')
+    matches = []
+    if not os.path.isdir(untranslated_dir):
+        return matches
+    for dirpath, _, files in os.walk(untranslated_dir):
+        if fname in files:
+            matches.append(os.path.join(dirpath, fname))
+    return matches
+
+
+def check_duplicates(texture_dir):
+    """Warn about textures that appear in more than one location under Texture/."""
+    seen = {}  # fname -> list of paths
+    for dirpath, _, files in os.walk(texture_dir):
+        for fname in files:
+            if fname.endswith('.png') or fname.endswith('.psd'):
+                seen.setdefault(fname, []).append(
+                    os.path.relpath(os.path.join(dirpath, fname), texture_dir).replace('\\', '/')
+                )
+    duplicates = {f: paths for f, paths in seen.items() if len(paths) > 1}
+    if duplicates:
+        print(f'  WARNING: {len(duplicates)} duplicate filename(s) found:')
+        for fname, paths in sorted(duplicates.items()):
+            for p in paths:
+                print(f'    {p}')
+    return duplicates
+
+
 def organise_textures(texture_dir, mark_translated=False, base=None):
     """Sort loose texture files into scene subfolders.
 
     - Texture/ root         -> Texture/<scene>/ (--translated)
                                Texture/_untranslated/<scene>/ (default)
     - _untranslated/ root   -> _untranslated/<scene>/
-    - _untranslated/<cat>/  -> _untranslated/<cat>/<scene>/  (any contributor-created folder)
+    - _untranslated/<cat>/  -> _untranslated/<cat>/<scene>/  (contributor-created folders)
 
+    With --translated: removes any copies found under _untranslated/.
+    Always checks for duplicate filenames across all subfolders.
     If mark_translated=True, .png paths are registered in translated_textures.json.
     """
     moved = []
@@ -260,9 +292,23 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
             if os.path.isdir(entry_path) and entry.lower() not in SCENE_FOLDERS:
                 sort_loose_files(entry_path, os.path.join('_untranslated', entry), texture_dir, moved)
 
+    # If translating: remove any copies of the same file from _untranslated/
+    if mark_translated and moved:
+        for _, _, fname in moved:
+            stale = find_in_untranslated(texture_dir, fname)
+            for path in stale:
+                os.remove(path)
+                rel = os.path.relpath(path, texture_dir).replace('\\', '/')
+                print(f'  removed from _untranslated/  {rel}')
+
+    # Check for duplicates across all subfolders
+    print('  Checking for duplicates...')
+    dupes = check_duplicates(texture_dir)
+    if not dupes:
+        print('  No duplicates found.')
+
     if mark_translated and moved and base:
         manifest_path = os.path.join(base, MANIFEST_FILE)
-        # Load existing entries
         existing = []
         if os.path.isfile(manifest_path):
             with open(manifest_path, 'r', encoding='utf-8') as f:
