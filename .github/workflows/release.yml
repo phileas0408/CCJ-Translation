@@ -6,9 +6,7 @@ on:
       - main
     tags:
       - 'v*'
-    paths:
-      - 'BepInEx/Translation/en/Text/**.txt'
-      - 'translated_textures.json'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -22,12 +20,29 @@ jobs:
         with:
           fetch-depth: 0  # needed for commit count
 
+      - name: Check for release-worthy changes
+        id: check
+        run: |
+          if [[ "${GITHUB_REF}" == refs/tags/* || "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "relevant=true" >> $GITHUB_OUTPUT
+          else
+            CHANGED=$(git diff --name-only HEAD~1 HEAD)
+            if echo "$CHANGED" | grep -qE '^(BepInEx/Translation/en/Text/.+\.txt|translated_textures\.json)$'; then
+              echo "relevant=true" >> $GITHUB_OUTPUT
+            else
+              echo "relevant=false" >> $GITHUB_OUTPUT
+              echo "No release-worthy changes — skipping build."
+            fi
+          fi
+
       - name: Set up Python
+        if: steps.check.outputs.relevant == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Determine version
+        if: steps.check.outputs.relevant == 'true'
         id: version
         run: |
           if [[ "${GITHUB_REF}" == refs/tags/* ]]; then
@@ -45,12 +60,15 @@ jobs:
           echo "Version: ${VERSION} (prerelease: ${PRERELEASE})"
 
       - name: Build release zip
+        if: steps.check.outputs.relevant == 'true'
         run: python build_release.py
 
       - name: Rename zip with version
+        if: steps.check.outputs.relevant == 'true'
         run: mv CCJ-Translation.zip CCJ-Translation-${{ steps.version.outputs.version }}.zip
 
       - name: Create release
+        if: steps.check.outputs.relevant == 'true'
         uses: softprops/action-gh-release@v2
         with:
           tag_name: ${{ steps.version.outputs.version }}

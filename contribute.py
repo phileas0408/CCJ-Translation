@@ -231,8 +231,13 @@ def sort_loose_files(scan_dir, dest_prefix, texture_dir, moved):
             continue
         dest_dir = os.path.join(texture_dir, dest_prefix, scene)
         os.makedirs(dest_dir, exist_ok=True)
-        shutil.move(fpath, os.path.join(dest_dir, fname))
-        moved.append((dest_prefix, scene, fname))
+        dest_path = os.path.join(dest_dir, fname)
+        replacing = os.path.isfile(dest_path)
+        if replacing:
+            os.remove(dest_path)
+        shutil.move(fpath, dest_path)
+        action = 'replaced' if replacing else 'moved'
+        moved.append((dest_prefix, scene, fname, action))
 
 
 def find_in_untranslated(texture_dir, fname):
@@ -294,7 +299,7 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
 
     # If translating: remove any copies of the same file from _untranslated/
     if mark_translated and moved:
-        for _, _, fname in moved:
+        for _, _, fname, _ in moved:
             stale = find_in_untranslated(texture_dir, fname)
             for path in stale:
                 os.remove(path)
@@ -315,7 +320,7 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
                 existing = json.load(f)
         existing_set = set(existing)
         new_entries = []
-        for prefix, scene, fname in moved:
+        for prefix, scene, fname, _replacing in moved:
             if fname.endswith('.png'):
                 rel = f'{TEXTURE_DIR}/{prefix}/{scene}/{fname}'.replace('\\', '/').replace('//', '/')
                 if rel not in existing_set:
@@ -327,7 +332,7 @@ def organise_textures(texture_dir, mark_translated=False, base=None):
                 f.write('\n')
             print(f'  Added {len(new_entries)} texture(s) to {MANIFEST_FILE}')
 
-    return [f'{os.path.join(prefix, scene)}/{fname}' for prefix, scene, fname in moved]
+    return [(f'{os.path.join(prefix, scene)}/{fname}', action) for prefix, scene, fname, action in moved]
 
 
 # ---------------------------------------------------------------------------
@@ -343,9 +348,10 @@ def cmd_stage(base, src_file, mark_translated=False):
     print('=== Textures ===')
     moved = organise_textures(texture_dir, mark_translated=mark_translated, base=base)
     if moved:
-        label = '[translated]' if mark_translated else '[untranslated]'
-        for f in moved:
-            print(f'  moved {label}  {f}')
+        default_label = '[translated]' if mark_translated else '[untranslated]'
+        for f, action in moved:
+            label = f'[{action}]' if action == 'replaced' else default_label
+            print(f'  {label}  {f}')
         print(f'  {len(moved)} file(s) organised.')
     else:
         print('  Nothing to organise.')
