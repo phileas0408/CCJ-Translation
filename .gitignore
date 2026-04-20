@@ -15,8 +15,17 @@ __pycache__/
 # Build output
 CCJ-Translation*.zip
 
+# macOS metadata
+.DS_Store
+
 # Backup files
 *.bak
+
+# Environment files
+*.env
+
+# VSCode workspace settings
+.vscode/
 
 # game files
 card0.txt
