@@ -1,6 +1,9 @@
 [
+  "BepInEx/Translation/en/Texture/bingo/sactx-3-2048x2048-BC7-bingo-e0855248 [B6D7E42F13-0EF0D2E6AA].png",
+  "BepInEx/Translation/en/Texture/birthday/sactx-1-2048x512-BC7-birthday-b88f50d6 [59AAFA3429-5D75D8C6BA].png",
   "BepInEx/Translation/en/Texture/card_entry/sactx-0-2048x2048-BC7-card_entry-fd4198f5 [8FBDDC385C-22EEE278EF].png",
   "BepInEx/Translation/en/Texture/card_entry/sactx-1-2048x2048-BC7-card_entry-fd4198f5 [AD9DF21466-D73860E888].png",
+  "BepInEx/Translation/en/Texture/caution/sactx-0-2048x2048-BC7-caution-8e8626b6 [6D80110C3C-FC5EF6808E].png",
   "BepInEx/Translation/en/Texture/character_setting/sactx-0-2048x2048-BC7-character_setting-8a32c905 [D2FE1F6EBB-1CDC860FBC].png",
   "BepInEx/Translation/en/Texture/chat/ui_chat_001 [201416D4C0-907298EB0D].png",
   "BepInEx/Translation/en/Texture/chat/ui_chat_002 [5B32C388F8-C7A2FDFE75].png",
@@ -38,6 +41,7 @@
   "BepInEx/Translation/en/Texture/chat/ui_emote17 [1E58276454-7B4A88D83B].png",
   "BepInEx/Translation/en/Texture/chat/ui_emote19 [839D0786A8-682A0B846F].png",
   "BepInEx/Translation/en/Texture/common/sactx-0-2048x2048-BC7-common-5bb2db8c [2FDB858059-E0A127BE6A].png",
+  "BepInEx/Translation/en/Texture/common/sactx-1-2048x2048-BC7-common-5bb2db8c [FE002ED41F-FB58CEA72D].png",
   "BepInEx/Translation/en/Texture/common/sactx-3-2048x1024-BC7-common-5bb2db8c [5DB56A3F06-181887157A].png",
   "BepInEx/Translation/en/Texture/dressup/sactx-1-2048x2048-BC7-dressup-de49dc93 [A5B706CA2A-68BFF8E60A].png",
   "BepInEx/Translation/en/Texture/gacha/sactx-11-2048x2048-BC7-gacha-fb2dd475 [93DDFF59AF-3E86E5AE5A].png",
@@ -930,6 +934,7 @@
   "BepInEx/Translation/en/Texture/matching/matching_rank_09 [A060B07A9D-E7CEDFBEE4].png",
   "BepInEx/Translation/en/Texture/matching/sactx-0-2048x2048-BC7-matching-d3012852 [8D0C30D243-36F8E10C4A].png",
   "BepInEx/Translation/en/Texture/matching/sactx-1-1024x2048-BC7-matching-d3012852 [95034A5517-0F88DCD250].png",
+  "BepInEx/Translation/en/Texture/mission/sactx-0-2048x2048-BC7-mission-a26b8d37 [FFC19A375F-4B59EC1463].png",
   "BepInEx/Translation/en/Texture/mode_select/sactx-0-2048x2048-BC7-mode_select-c013bcd6 [7643CD1F58-B4E2918BA8].png",
   "BepInEx/Translation/en/Texture/mode_select/sactx-1-2048x2048-BC7-mode_select-c013bcd6 [E3B808BA30-3032FDADB6].png",
   "BepInEx/Translation/en/Texture/mode_select/sactx-2-2048x2048-BC7-mode_select-c013bcd6 [3245FDF10A-F5F60F4513].png",
@@ -940,6 +945,7 @@
   "BepInEx/Translation/en/Texture/shop/sactx-1-2048x2048-BC7-shop-7ee256d6 [D5494C870F-684E98B8E9].png",
   "BepInEx/Translation/en/Texture/shop/sactx-2-2048x2048-BC7-shop-7ee256d6 [110ADD6A56-9FD0FE0E9B].png",
   "BepInEx/Translation/en/Texture/stage/ui_stage_name_Shibuya01 [8E9757C588-079C67F498].png",
+  "BepInEx/Translation/en/Texture/stamp_card_kac/sactx-0-2048x1024-BC7-stamp_card_kac-2f799d23 [DA65C6CE23-D2B9D7B315].png",
   "BepInEx/Translation/en/Texture/sub/sactx-0-2048x2048-BC7-sub-eaa46ac8 [956AE3E9E2-2F2F3DF5BA].png",
   "BepInEx/Translation/en/Texture/sub/sactx-1-2048x2048-BC7-sub-eaa46ac8 [66E7DD9CBD-00D60F6AC4].png",
   "BepInEx/Translation/en/Texture/tutorial/sactx-0-2048x1024-BC7-tutorial-65d86bd1 [6467202A2C-FAE7EB9430].png"
