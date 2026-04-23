@@ -1,144 +1,144 @@
-オンラインアップデートの準備が整いました。\r再起動するとバージョンアップが完了します。\r\n注）再起動する際は、電源を切った後10秒以上経過してから電源を投入してください。=An online update is ready.\nRestart to complete the update.\nNote: After powering off, wait at least 10 seconds before turning back on.
-こちらに日付　９/９（曜日）９９:９９～９/９（曜日）９９:９９=Here 9/9 (Sunday) 99: 99-9/9 (Sunday) 99:99
-お知らせ準備中=Preparing for notification
-ジョーカーチェイスはじまるヨ～=Joker Chase starts~
+オンラインアップデートの準備が整いました。\r再起動するとバージョンアップが完了します。\r\n注）再起動する際は、電源を切った後10秒以上経過してから電源を投入してください。=An online update is ready.\rRestart to complete the update.\r\nNote: After powering off, wait at least 10 seconds before turning back on.
+こちらに日付　９/９（曜日）９９:９９～９/９（曜日）９９:９９=Date here: 9/9 (Day) 99:99 ~ 9/9 (Day) 99:99
+お知らせ準備中=Preparing notification
+ジョーカーチェイスはじまるヨ～=Joker Chase is starting!
 このゲーム機は チームＡ です=This machine is Team A
-限定マッチング中=Limited matching
-ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓを確認しています。しばらくお待ちください…=Verifying e-amusement Pass.\nPlease wait…
-カード認証=Authentication
-あと1コイン=1 coin
-クレジット=credit
-クレジットでプレー=Play with credit
+限定マッチング中=Restricted Matching
+ｅ-ａｍｕｓｅｍｅｎｔ ｐａｓｓを確認しています。しばらくお待ちください…=Verifying e-amusement pass. Please wait…
+カード認証=Card Authentication
+あと1コイン=1 coin left
+クレジット=Credit
+クレジットでプレー=Play with Credit
 ＰＡＳＥＬＩでプレー=Play with PASELI
 円（税込）=Yen (tax included)
-スティックを動かしてください=Move the stick
-ランキング圏外=Outside the ranking
-チェイスチェイスジョーカーズに参戦=Participate in Chase Chase Jokers
-制作・著作 株式会社コナミアミューズメント=Production / Konami Amusement Co., Ltd.
-ゲーム設定=Game settings
-サウンド設定=Sound setting
-ICカードチェック=IC card check
-ディスクチェック=Disk check
-カラーチェック=Color check
-画面チェック=Screen check
-本体チェック=Main unit check
-コイン設定=Coin settings
-ネットワーク設定=network settings
-言語設定=Language settings
-SERVICEボタン \= 決定=Service button \= Decide
-TESTボタン \= 移動=Test button \= Move
-<color\=cyan>OKボタン \= 決定</color>=<color\=cyan>OK button \= Decide</color>
-<color\=cyan>上/下ボタン \= 移動</color>=<color\=cyan>Upper/lower button \= Move</color>
-集計データ=Aggregated data
-サービスボタン履歴=Service button history
-時刻設定=Time setting
-電子マネー=Electronic money
-すべて初期化=All initialized
-システム情報=System information
-ゲームモード=Game mode
-メインメニュー=Main menu
-画面チェック=Screen check
-本体チェック=Main Unit check
-カラーチェック=Color check
-ディスクチェック=Disk check
-ICカードチェック=IC card check
-サウンド設定=Sound setting
-ゲーム設定=Game settings
-コイン設定=Coin settings
-ネットワーク設定=network settings
-言語設定=Language settings
-SERVICEボタン \= 決定=Service button \= Decide
-TESTボタン \= 移動=Test button \= Move
-<color\=cyan>OKボタン \= 決定</color>=<color\=cyan>OK button \= Decide</color>
-<color\=cyan>上/下ボタン \= 移動</color>=<color\=cyan>Upper/lower button \= Move</color>
-集計データ=Aggregated data
-サービスボタン履歴=Service button history
-時刻設定=Time setting
-電子マネー=Electronic money
-すべて初期化=All initialized
-システム情報=System information
-ゲームモード=Game mode
-メインメニュー=Main menu
+スティックを動かしてください=Please move the stick
+ランキング圏外=Outside Ranking Range
+チェイスチェイスジョーカーズに参戦=Join Chase Chase Jokers
+制作・著作 株式会社コナミアミューズメント=Produced by Konami Amusement Co., Ltd.
+ゲーム設定=Game Settings
+サウンド設定=Sound Settings
+ICカードチェック=IC Card Check
+ディスクチェック=Disk Check
+カラーチェック=Color Check
+画面チェック=Screen Check
+本体チェック=Hardware Check
+コイン設定=Coin Settings
+ネットワーク設定=Network Settings
+言語設定=Language Settings
+SERVICEボタン \= 決定=SERVICE button \= Confirm
+TESTボタン \= 移動=TEST button \= Navigate
+<color\=cyan>OKボタン \= 決定</color>=<color\=cyan>OK button \= Confirm</color>
+<color\=cyan>上/下ボタン \= 移動</color>=<color\=cyan>Up/Down button \= Navigate</color>
+集計データ=Aggregated Data
+サービスボタン履歴=Service Button History
+時刻設定=Time Settings
+電子マネー=Electronic Money
+すべて初期化=Reset All
+システム情報=System Information
+ゲームモード=Game Mode
+メインメニュー=Main Menu
+画面チェック=Screen Check
+本体チェック=Hardware Check
+カラーチェック=Color Check
+ディスクチェック=Disk Check
+ICカードチェック=IC Card Check
+サウンド設定=Sound Settings
+ゲーム設定=Game Settings
+コイン設定=Coin Settings
+ネットワーク設定=Network Settings
+言語設定=Language Settings
+SERVICEボタン \= 決定=SERVICE button \= Confirm
+TESTボタン \= 移動=TEST button \= Navigate
+<color\=cyan>OKボタン \= 決定</color>=<color\=cyan>OK button \= Confirm</color>
+<color\=cyan>上/下ボタン \= 移動</color>=<color\=cyan>Up/Down button \= Navigate</color>
+集計データ=Aggregated Data
+サービスボタン履歴=Service Button History
+時刻設定=Time Settings
+電子マネー=Electronic Money
+すべて初期化=Reset All
+システム情報=System Information
+ゲームモード=Game Mode
+メインメニュー=Main Menu
 終了=Exit
-ネットワークチェック=Network check
-SERVICEボタン \= 終了=Service button \= End
-<color\=cyan>OKボタン \= 終了</color>=<color\=cyan>OK button \= finished</color>
-MACアドレス=MAC address
-NTPサーバー=NTP server
-DHCPサーバー=DHCP server
-デフォルトルーター=Default router
-サブネットマスク=sub-net mask
-IPアドレス=IP address
-サーバーとの通信=Communication with the server
-センターとの通信=Communication with the center
-ルーターとの通信=Communication with router
+ネットワークチェック=Network Check
+SERVICEボタン \= 終了=SERVICE button \= Exit
+<color\=cyan>OKボタン \= 終了</color>=<color\=cyan>OK button \= Exit</color>
+MACアドレス=MAC Address
+NTPサーバー=NTP Server
+DHCPサーバー=DHCP Server
+デフォルトルーター=Default Router
+サブネットマスク=Subnet Mask
+IPアドレス=IP Address
+サーバーとの通信=Communication with Server
+センターとの通信=Communication with Center
+ルーターとの通信=Communication with Router
 接続状態=Connection Status
-サーバー=server
+サーバー=Server
 センター=Center
-ルーター=router
-本体=Main Unit
-初期化=Defaults
+ルーター=Router
+本体=Hardware
+初期化=Reset
 保存して終了=Save and Exit
-チーム=team
-マッチングコード=Matching code
-限定マッチング=Limited matching
-営業終了時間=Store closing time
-閉店設定=Store closing
-テストモード=Test mode
+チーム=Team
+マッチングコード=Matching Code
+限定マッチング=Restricted Matching
+営業終了時間=Closing Time
+閉店設定=Closing Settings
+テストモード=Test Mode
 日本語=Japanese
-ゲームモード（デフォルト）=Game mode (default)
-SERVICEボタン \= 設定を変える=Service button \= Change the settings
-<color\=cyan>左/右ボタン \= 設定を変える</color>=<color\=cyan>Left/right button \= change settings</color>
-入力チェック=Check the input
-トラックボールチェック=Trackball check
-アナログスティックチェック=Analog stick check
-タッチパネルチェック=Touch panel check
-ランプチェック=Lamp check
-制御チェック=Control check
-テストボタン \= テストモード=Test button \= test mode
-モニター解像度エラー=monitor resolution error
-サービスボタン \= ゲームモード=Service button \= game mode
+ゲームモード（デフォルト）=Game Mode (Default)
+SERVICEボタン \= 設定を変える=SERVICE button \= Change Setting
+<color\=cyan>左/右ボタン \= 設定を変える</color>=<color\=cyan>Left/Right button \= Change Setting</color>
+入力チェック=Input Check
+トラックボールチェック=Trackball Check
+アナログスティックチェック=Analog Stick Check
+タッチパネルチェック=Touch Panel Check
+ランプチェック=Lamp Check
+制御チェック=Control Check
+テストボタン \= テストモード=TEST button \= Test Mode
+モニター解像度エラー=Monitor Resolution Error
+サービスボタン \= ゲームモード=SERVICE button \= Game Mode
 テストモード->時刻設定より時刻を設定してください。=Please set the time from Test Mode -> Time Settings.
-時刻設定未設定=Time setting not set
+時刻設定未設定=Time Not Set
 2026-04-14 (火)=2026-04-14 (Tue)
-未設定=Not set
-時刻=time
+未設定=Not Set
+時刻=Time
 保存中=Saving
-TESTボタンを押しながらSERVICEボタン \= キャリブレーション=Hold down the TEST button and press the SERVICE button \= Calibration
-左/右ボタン同時押し \= キャリブレーション=Left/Right button press \= Calibration
-SERVICEボタン \= 次へ=SERVICE button \= next
-OKボタン \= 次へ=OK button \= next
-TESTボタン \= 設定を変える=TEST button \= change settings
-感知しない範囲:10%=Non-sensing range: 10%
-キャリブレーション=calibration
-TESTボタンを押しながらSERVICEボタン \= 中止=Hold down the TEST button and press the SERVICE button \= cancel
-中心X座標:32768\n中心Y座標:32768=Center X coordinate: 32768 Center Y coordinate: 32768
-完了しました=Completed
-・ルーターからインターネット回線までの、\n　全ての接続機器の電源が入っているか確認\n　してください。\n・ルーターからインターネット回線までの、\n　全ての接続機器が正しく接続されているか\n　確認してください。=・Ensure all devices from the router to the internet line are powered on.\n・Ensure all devices from the router to the internet line are properly connected.
-センターサーバーと通信できません=Unable to communicate with center server
-<color\=cyan>左/右ボタン \= 移動</color>=<color\=cyan>Left/Right button \= move</color>
-ネットワーク接続状況確認中\n只今、プレーはできません。=Checking network connection. Play is unavailable at this time.
-サブモニター解像度エラー=Sub monitor resolution error
-数字はランダムで表示されます=Numbers are displayed randomly
-暗証番号入力=Enter PIN number
-<color\=#F9FF00>暗証番号</color>を入力してください=<color\=#F9FF00>PIN number</color>Please enter
-確認入力=Confirmation input
+TESTボタンを押しながらSERVICEボタン \= キャリブレーション=Hold TEST + press SERVICE \= Calibration
+左/右ボタン同時押し \= キャリブレーション=Press Left + Right together \= Calibration
+SERVICEボタン \= 次へ=SERVICE button \= Next
+OKボタン \= 次へ=OK button \= Next
+TESTボタン \= 設定を変える=TEST button \= Change Setting
+感知しない範囲:10%=Dead Zone: 10%
+キャリブレーション=Calibration
+TESTボタンを押しながらSERVICEボタン \= 中止=Hold TEST + press SERVICE \= Cancel
+中心X座標:32768\n中心Y座標:32768=Center X: 32768\nCenter Y: 32768
+完了しました=Complete
+・ルーターからインターネット回線までの、\n　全ての接続機器の電源が入っているか確認\n　してください。\n・ルーターからインターネット回線までの、\n　全ての接続機器が正しく接続されているか\n　確認してください。=・Please confirm all devices between the router and the internet line\n　are powered on.\n・Please confirm all devices between the router and the internet line\n　are properly connected.
+センターサーバーと通信できません=Cannot communicate with Center server.
+<color\=cyan>左/右ボタン \= 移動</color>=<color\=cyan>Left/Right button \= Navigate</color>
+ネットワーク接続状況確認中\n只今、プレーはできません。=Checking network connection status.\nPlay is unavailable at this time.
+サブモニター解像度エラー=Sub Monitor Resolution Error
+数字はランダムで表示されます=Numbers are displayed in random order.
+暗証番号入力=Enter PIN
+<color\=#F9FF00>暗証番号</color>を入力してください=Please enter your <color\=#F9FF00>PIN</color>
+確認入力=Confirm Input
 しばらくお待ちください=Please wait...
-<color\=#F9FF00>確認</color>しました=<color\=#F9FF00>confirmation</color>I did
-ランキング=Ranking
-<color\=#dc3096>ｅ-ａｍｕｓｅｍｅｎｔサイト</color>にて<color\=#dc3096>データ引き継ぎ、暗証番号変更</color>等のサービスを\r\nご利用いただく際に<color\=#dc3096>カードナンバー(ユーザーコード)</color>が必要となりますので\n<color\=#dc3096>必ずメモしておいてください。</color>=Your <color\=#dc3096>Card Number (User Code)</color> is needed for services such as data transfer and password changes on the <color\=#dc3096>e-amusement site</color>.\n<color\=#dc3096>Be sure to write it down.</color>
-プレーヤー名表示設定=Player name display settings
-このデータでゲームを始めます=Start game with this data
-※ご注意※\n<size\=80%>\n画面の下部に残高が表示されている間は\n\rPASELIを使用できますので\r\n<color\=#bb0000>ゲーム機を離れる前に、必ずゲームを終了して\r\ne-amusement passをお持ち帰りください</color>\n\n</size>=*Note*\n<size\=80%>\nYou can use PASELI while the balance is displayed at the bottom of the screen.\r\n<color\=#bb0000>Before leaving the game console, be sure to exit the game and take your e-amusement pass home.</color>\n\n</size>
+<color\=#F9FF00>確認</color>しました=<color\=#F9FF00>Confirmed</color>
+ランキング=Rankings
+<color\=#dc3096>ｅ-ａｍｕｓｅｍｅｎｔサイト</color>にて<color\=#dc3096>データ引き継ぎ、暗証番号変更</color>等のサービスを\r\nご利用いただく際に<color\=#dc3096>カードナンバー(ユーザーコード)</color>が必要となりますので\n<color\=#dc3096>必ずメモしておいてください。</color>=Your <color\=#dc3096>Card Number (User Code)</color> is required for services like\r\n<color\=#dc3096>data transfer and PIN change</color> on the <color\=#dc3096>e-amusement site</color>.\n<color\=#dc3096>Be sure to write it down.</color>
+プレーヤー名表示設定=Player Name Display Settings
+このデータでゲームを始めます=Start game with this data.
+※ご注意※\n<size\=80%>\n画面の下部に残高が表示されている間は\n\rPASELIを使用できますので\r\n<color\=#bb0000>ゲーム機を離れる前に、必ずゲームを終了して\r\ne-amusement passをお持ち帰りください</color>\n\n</size>=*Notice*\n<size\=80%>\nPASELI can be used while the balance is shown\n\rat the bottom of the screen.\r\n<color\=#bb0000>Before leaving the machine, be sure to exit the game\r\nand take your e-amusement pass with you.</color>\n\n</size>
 ＰＡＳＥＬＩ確認中。=Verifying PASELI...
 あと１コイン=1 coin left
-ゲーム中、<color\=#004efe>自分以外</color>の\n\rプレーヤー名を<color\=#004efe>表示しない</color>=During the game,<color\=#004efe>other than myself</color>of\n\n\rplayer name<color\=#004efe>Not displayed</color>
-ゲーム中、<color\=#004efe>自分のプレーヤー名</color>を\n他の人の画面に<color\=#004efe>表示しない</color>=During the game,<color\=#004efe>my player name</color>The\n\non someone else's screen<color\=#004efe>Not displayed</color>
-ＰＡＳＥＬＩを使用しました。\n<size\=80%>\n使用   　　　１００円\n残高   　５７２００円</size>=I used PASELI.\n<size\=80%>\nUsed: 100 yen Balance: 57,200 yen</size>
-<color\=#dc3096>タッチパネルを押している間、カードナンバーが表示</color>されます=<color\=#dc3096>Card number is shown while pressing the touch panel</color>
+ゲーム中、<color\=#004efe>自分以外</color>の\n\rプレーヤー名を<color\=#004efe>表示しない</color>=<color\=#004efe>Hide</color> <color\=#004efe>other players'</color> names\n\rduring the match
+ゲーム中、<color\=#004efe>自分のプレーヤー名</color>を\n他の人の画面に<color\=#004efe>表示しない</color>=<color\=#004efe>Hide</color> <color\=#004efe>your player name</color>\nfrom other players' screens during the match
+ＰＡＳＥＬＩを使用しました。\n<size\=80%>\n使用   　　　１００円\n残高   　５７２００円</size>=PASELI used.\n<size\=80%>\nUsed:    　　　 100 yen\nBalance: 57,200 yen</size>
+<color\=#dc3096>タッチパネルを押している間、カードナンバーが表示</color>されます=<color\=#dc3096>Your Card Number is displayed while holding the touch panel.</color>
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
-<align\="center"><size\=130%><color\="yellow"><player>様への警告</color></size></align><br><br>貴方のプレー状況をゲームサーバー上の履歴から確認し、貴方の行動が運営チームの定める<br><color\="red">「禁止行為」</color>にあたることを確認いたしました。<br><br>チェイスチェイスジョーカーズでは以下の行為を禁止しております。<br><br>・他のプレーヤーに対する<color\="yellow">誹謗中傷</color>や<color\="yellow">迷惑行為</color><br>・故意に電源を切ったり、ネットワークを遮断するなどして<color\="yellow">プレー結果のセーブを回避</color>する行為<br>・その他、<color\="yellow">ゲームの公平性を阻害</color>する行為<br><br>今後、貴方の行動に改善が見られない場合、<color\="yellow">マッチング制限</color>などの措置を取らせていただきます。<br><br>本件についてのお問い合わせは、ＫＯＮＡＭＩお客様相談室へお願いいたします。<br>全てのプレーヤーに楽しく遊んでいただくため、ご理解の程宜しくお願いいたします。<br>=<align\="center"><size\=130%><color\="yellow"><player>Warning to</color></size></align><br><br>Check your play status from the history on the game server, and your actions will be determined by the management team.<br><color\="red">"Prohibited acts"</color>We have confirmed that this is the case.<br><br>Chase Chase Jokers prohibits the following acts.<br><br>・Against other players<color\="yellow">slander</color>or<color\="yellow">nuisance</color><br>- Deliberately turning off the power or cutting off the network, etc.<color\="yellow">Avoid saving play results</color>act of doing<br>·others,<color\="yellow">Obstructing the fairness of the game</color>act of doing<br><br>If you do not see any improvement in your behavior,<color\="yellow">matching limit</color>We will take the following measures.<br><br>For inquiries regarding this matter, please contact the KONAMI Customer Service Office.<br>We appreciate your understanding in order to ensure that all players can enjoy the game.<br>
-以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>ＣＲＥＤＩＴ：２</color>\r\n=The power may have been turned off without properly consuming the following:\n\r\n　<color\=magenta>ＣＲＥＤＩＴ：２</color>\r\n
+<align\="center"><size\=130%><color\="yellow"><player>様への警告</color></size></align><br><br>貴方のプレー状況をゲームサーバー上の履歴から確認し、貴方の行動が運営チームの定める<br><color\="red">「禁止行為」</color>にあたることを確認いたしました。<br><br>チェイスチェイスジョーカーズでは以下の行為を禁止しております。<br><br>・他のプレーヤーに対する<color\="yellow">誹謗中傷</color>や<color\="yellow">迷惑行為</color><br>・故意に電源を切ったり、ネットワークを遮断するなどして<color\="yellow">プレー結果のセーブを回避</color>する行為<br>・その他、<color\="yellow">ゲームの公平性を阻害</color>する行為<br><br>今後、貴方の行動に改善が見られない場合、<color\="yellow">マッチング制限</color>などの措置を取らせていただきます。<br><br>本件についてのお問い合わせは、ＫＯＮＡＭＩお客様相談室へお願いいたします。<br>全てのプレーヤーに楽しく遊んでいただくため、ご理解の程宜しくお願いいたします。<br>=<align\="center"><size\=130%><color\="yellow">Warning to <player></color></size></align><br><br>We have reviewed your play history on the game server and confirmed that your conduct falls under the operations team's definition of <color\="red">"Prohibited Acts."</color><br><br>The following acts are prohibited in Chase Chase Jokers:<br><br>・<color\="yellow">Slander</color> or <color\="yellow">harassment</color> directed at other players<br>・Deliberately cutting power or disconnecting the network to <color\="yellow">avoid saving play results</color><br>・Any other acts that <color\="yellow">disrupt the fairness of the game</color><br><br>If no improvement is seen in your behavior, measures such as <color\="yellow">matchmaking restrictions</color> may be taken.<br><br>For inquiries regarding this matter, please contact the KONAMI Customer Service Office.<br>We appreciate your cooperation in keeping the game enjoyable for all players.<br>
+以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>ＣＲＥＤＩＴ：２</color>\r\n=The power may have been turned off before the following was properly consumed:\n\r\n　<color\=magenta>CREDIT: 2</color>\r\n
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r
-以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>スタート（ＰＡＳＥＬＩ）</color>\r\n\n<color\=#808080>最終シーン：モードセレクト</color>\r\n=The power may have been turned off without properly consuming the following:\n\r\n　<color\=magenta>Start (PASELI)</color>\r\n\n<color\=#808080>Final scene: Mode selection</color>\r\n
+以下が正しく消費されずに\n電源が落とされた可能性があります。\n\r\n　<color\=magenta>スタート（ＰＡＳＥＬＩ）</color>\r\n\n<color\=#808080>最終シーン：モードセレクト</color>\r\n=The power may have been turned off before the following was properly consumed:\n\r\n　<color\=magenta>Start (PASELI)</color>\r\n\n<color\=#808080>Last scene: Mode Select</color>\r\n
 ｅ-ａｍｕｓｅｍｅｎｔサイト【ｈｔｔｐ:\/\/ｅａｇａｔｅ.５７３.ｊｐ/】\r=e-amusement site [http:\/\/eagate.573.jp/]\r

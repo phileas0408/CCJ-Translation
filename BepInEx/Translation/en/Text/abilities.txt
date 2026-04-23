@@ -1,556 +1,556 @@
-スタートスキルゲージ <color\=#18bcf2>Ｌｖ.１</color>=Start skill gauge <color\=#18bcf2>Ｌｖ.１</color>
-スタートスキルゲージ <color\=#18bcf2>Ｌｖ.２</color>=Start skill gauge <color\=#18bcf2>Ｌｖ.２</color>
-スタートスキルゲージ <color\=#18bcf2>Ｌｖ.３</color>=Start skill gauge <color\=#18bcf2>Ｌｖ.３</color>
-スタートスキルゲージ <color\=#18bcf2>Ｌｖ.４</color>=Start skill gauge <color\=#18bcf2>Ｌｖ.４</color>
-陸上部の元エース <color\=#18bcf2>Ｌｖ.１</color>=Former track and field ace <color\=#18bcf2>Ｌｖ.１</color>
-陸上部の元エース <color\=#18bcf2>Ｌｖ.２</color>=Former track and field ace <color\=#18bcf2>Ｌｖ.２</color>
-陸上部の元エース <color\=#18bcf2>Ｌｖ.３</color>=Former track and field ace <color\=#18bcf2>Ｌｖ.３</color>
-陸上部の元エース <color\=#18bcf2>Ｌｖ.４</color>=Former track and field ace <color\=#18bcf2>Ｌｖ.４</color>
-ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.１</color>=Target navigation extension <color\=#18bcf2>Ｌｖ.１</color>
-ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.２</color>=Target navigation extension <color\=#18bcf2>Ｌｖ.２</color>
-ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.３</color>=Target navigation extension <color\=#18bcf2>Ｌｖ.３</color>
-ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.４</color>=Target navigation extension <color\=#18bcf2>Ｌｖ.４</color>
-呪われた血 <color\=#18bcf2>Ｌｖ.１</color>=Cursed blood <color\=#18bcf2>Ｌｖ.１</color>
-呪われた血 <color\=#18bcf2>Ｌｖ.２</color>=Cursed blood <color\=#18bcf2>Ｌｖ.２</color>
-呪われた血 <color\=#18bcf2>Ｌｖ.３</color>=Cursed blood <color\=#18bcf2>Ｌｖ.３</color>
-呪われた血 <color\=#18bcf2>Ｌｖ.４</color>=Cursed blood <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery (Deguchi release) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery (Deguchi release) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery (Deguchi release) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery (Deguchi release) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.１</color>=Moving speed increases (in crisis) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.２</color>=Moving speed increases (in crisis) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.３</color>=Moving speed increases (in crisis) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.４</color>=Moving speed increases (in crisis) <color\=#18bcf2>Ｌｖ.４</color>
-敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.１</color>=Reduced enemy movement speed (very close) <color\=#18bcf2>Ｌｖ.１</color>
-敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.２</color>=Reduced enemy movement speed (very close) <color\=#18bcf2>Ｌｖ.２</color>
-敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.３</color>=Reduced enemy movement speed (very close) <color\=#18bcf2>Ｌｖ.３</color>
-敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.４</color>=Reduced enemy movement speed (very close) <color\=#18bcf2>Ｌｖ.４</color>
-巫女の力 <color\=#18bcf2>Ｌｖ.１</color>=The power of the shrine maiden <color\=#18bcf2>Ｌｖ.１</color>
-巫女の力 <color\=#18bcf2>Ｌｖ.２</color>=The power of the shrine maiden <color\=#18bcf2>Ｌｖ.２</color>
-巫女の力 <color\=#18bcf2>Ｌｖ.３</color>=The power of the shrine maiden <color\=#18bcf2>Ｌｖ.３</color>
-巫女の力 <color\=#18bcf2>Ｌｖ.４</color>=The power of the shrine maiden <color\=#18bcf2>Ｌｖ.４</color>
-キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.１</color>=Acquisition of key power (at the start of the turn) <color\=#18bcf2>Ｌｖ.１</color>
-キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.２</color>=Acquisition of key power (at the start of the turn) <color\=#18bcf2>Ｌｖ.２</color>
-キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.３</color>=Acquisition of key power (at the start of the turn) <color\=#18bcf2>Ｌｖ.３</color>
-キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.４</color>=Acquisition of key power (at the start of the turn) <color\=#18bcf2>Ｌｖ.４</color>
-中央国からの特待生 <color\=#18bcf2>Ｌｖ.１</color>=Special scholarship students from the central country <color\=#18bcf2>Ｌｖ.１</color>
-中央国からの特待生 <color\=#18bcf2>Ｌｖ.２</color>=Special scholarship students from the central country <color\=#18bcf2>Ｌｖ.２</color>
-中央国からの特待生 <color\=#18bcf2>Ｌｖ.３</color>=Special scholarship students from the central country <color\=#18bcf2>Ｌｖ.３</color>
-中央国からの特待生 <color\=#18bcf2>Ｌｖ.４</color>=Special scholarship students from the central country <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed increases (half or less) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed increases (half or less) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed increases (half or less) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed increases (half or less) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.１</color>=Moving speed increases (in jumping) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.２</color>=Moving speed increases (in jumping) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.３</color>=Moving speed increases (in jumping) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.４</color>=Moving speed increases (in jumping) <color\=#18bcf2>Ｌｖ.４</color>
-黒の巫女 <color\=#18bcf2>Ｌｖ.１</color>=Black shrine maiden <color\=#18bcf2>Ｌｖ.１</color>
-黒の巫女 <color\=#18bcf2>Ｌｖ.２</color>=Black shrine maiden <color\=#18bcf2>Ｌｖ.２</color>
-黒の巫女 <color\=#18bcf2>Ｌｖ.３</color>=Black shrine maiden <color\=#18bcf2>Ｌｖ.３</color>
-黒の巫女 <color\=#18bcf2>Ｌｖ.４</color>=Black shrine maiden <color\=#18bcf2>Ｌｖ.４</color>
-キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.１</color>=Key Power steal amount up <color\=#18bcf2>Ｌｖ.１</color>
-キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.２</color>=Key Power steal amount up <color\=#18bcf2>Ｌｖ.２</color>
-キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.３</color>=Key Power steal amount up <color\=#18bcf2>Ｌｖ.３</color>
-キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.４</color>=Key Power steal amount up <color\=#18bcf2>Ｌｖ.４</color>
+スタートスキルゲージ <color\=#18bcf2>Ｌｖ.１</color>=Starting Skill Gauge <color\=#18bcf2>Ｌｖ.１</color>
+スタートスキルゲージ <color\=#18bcf2>Ｌｖ.２</color>=Starting Skill Gauge <color\=#18bcf2>Ｌｖ.２</color>
+スタートスキルゲージ <color\=#18bcf2>Ｌｖ.３</color>=Starting Skill Gauge <color\=#18bcf2>Ｌｖ.３</color>
+スタートスキルゲージ <color\=#18bcf2>Ｌｖ.４</color>=Starting Skill Gauge <color\=#18bcf2>Ｌｖ.４</color>
+陸上部の元エース <color\=#18bcf2>Ｌｖ.１</color>=Former Track & Field Ace <color\=#18bcf2>Ｌｖ.１</color>
+陸上部の元エース <color\=#18bcf2>Ｌｖ.２</color>=Former Track & Field Ace <color\=#18bcf2>Ｌｖ.２</color>
+陸上部の元エース <color\=#18bcf2>Ｌｖ.３</color>=Former Track & Field Ace <color\=#18bcf2>Ｌｖ.３</color>
+陸上部の元エース <color\=#18bcf2>Ｌｖ.４</color>=Former Track & Field Ace <color\=#18bcf2>Ｌｖ.４</color>
+ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.１</color>=Target Navi Extension <color\=#18bcf2>Ｌｖ.１</color>
+ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.２</color>=Target Navi Extension <color\=#18bcf2>Ｌｖ.２</color>
+ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.３</color>=Target Navi Extension <color\=#18bcf2>Ｌｖ.３</color>
+ターゲットナビ延長 <color\=#18bcf2>Ｌｖ.４</color>=Target Navi Extension <color\=#18bcf2>Ｌｖ.４</color>
+呪われた血 <color\=#18bcf2>Ｌｖ.１</color>=Cursed Blood <color\=#18bcf2>Ｌｖ.１</color>
+呪われた血 <color\=#18bcf2>Ｌｖ.２</color>=Cursed Blood <color\=#18bcf2>Ｌｖ.２</color>
+呪われた血 <color\=#18bcf2>Ｌｖ.３</color>=Cursed Blood <color\=#18bcf2>Ｌｖ.３</color>
+呪われた血 <color\=#18bcf2>Ｌｖ.４</color>=Cursed Blood <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery (Exit Opens) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery (Exit Opens) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery (Exit Opens) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復（デグチ解放） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery (Exit Opens) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (In Danger) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (In Danger) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (In Danger) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（危機時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (In Danger) <color\=#18bcf2>Ｌｖ.４</color>
+敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.１</color>=Enemy Movement Slowed (Very Close) <color\=#18bcf2>Ｌｖ.１</color>
+敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.２</color>=Enemy Movement Slowed (Very Close) <color\=#18bcf2>Ｌｖ.２</color>
+敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.３</color>=Enemy Movement Slowed (Very Close) <color\=#18bcf2>Ｌｖ.３</color>
+敵移動速度減少 (激近) <color\=#18bcf2>Ｌｖ.４</color>=Enemy Movement Slowed (Very Close) <color\=#18bcf2>Ｌｖ.４</color>
+巫女の力 <color\=#18bcf2>Ｌｖ.１</color>=Priestess's Power <color\=#18bcf2>Ｌｖ.１</color>
+巫女の力 <color\=#18bcf2>Ｌｖ.２</color>=Priestess's Power <color\=#18bcf2>Ｌｖ.２</color>
+巫女の力 <color\=#18bcf2>Ｌｖ.３</color>=Priestess's Power <color\=#18bcf2>Ｌｖ.３</color>
+巫女の力 <color\=#18bcf2>Ｌｖ.４</color>=Priestess's Power <color\=#18bcf2>Ｌｖ.４</color>
+キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.１</color>=Key Power Gain (Turn Start) <color\=#18bcf2>Ｌｖ.１</color>
+キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.２</color>=Key Power Gain (Turn Start) <color\=#18bcf2>Ｌｖ.２</color>
+キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.３</color>=Key Power Gain (Turn Start) <color\=#18bcf2>Ｌｖ.３</color>
+キーパワー取得（ターン開始時） <color\=#18bcf2>Ｌｖ.４</color>=Key Power Gain (Turn Start) <color\=#18bcf2>Ｌｖ.４</color>
+中央国からの特待生 <color\=#18bcf2>Ｌｖ.１</color>=Scholarship Student from the Central Kingdom <color\=#18bcf2>Ｌｖ.１</color>
+中央国からの特待生 <color\=#18bcf2>Ｌｖ.２</color>=Scholarship Student from the Central Kingdom <color\=#18bcf2>Ｌｖ.２</color>
+中央国からの特待生 <color\=#18bcf2>Ｌｖ.３</color>=Scholarship Student from the Central Kingdom <color\=#18bcf2>Ｌｖ.３</color>
+中央国からの特待生 <color\=#18bcf2>Ｌｖ.４</color>=Scholarship Student from the Central Kingdom <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up (Below Half) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up (Below Half) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up (Below Half) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇（半分以下時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up (Below Half) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (While Jumping) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (While Jumping) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (While Jumping) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ジャンプ中） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (While Jumping) <color\=#18bcf2>Ｌｖ.４</color>
+黒の巫女 <color\=#18bcf2>Ｌｖ.１</color>=Black Priestess <color\=#18bcf2>Ｌｖ.１</color>
+黒の巫女 <color\=#18bcf2>Ｌｖ.２</color>=Black Priestess <color\=#18bcf2>Ｌｖ.２</color>
+黒の巫女 <color\=#18bcf2>Ｌｖ.３</color>=Black Priestess <color\=#18bcf2>Ｌｖ.３</color>
+黒の巫女 <color\=#18bcf2>Ｌｖ.４</color>=Black Priestess <color\=#18bcf2>Ｌｖ.４</color>
+キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.１</color>=Key Power Steal Amount Up <color\=#18bcf2>Ｌｖ.１</color>
+キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.２</color>=Key Power Steal Amount Up <color\=#18bcf2>Ｌｖ.２</color>
+キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.３</color>=Key Power Steal Amount Up <color\=#18bcf2>Ｌｖ.３</color>
+キーパワー奪取量アップ <color\=#18bcf2>Ｌｖ.４</color>=Key Power Steal Amount Up <color\=#18bcf2>Ｌｖ.４</color>
 スキルゲージ奪取 <color\=#18bcf2>Ｌｖ.１</color>=Steal Skill Gauge <color\=#18bcf2>Ｌｖ.１</color>
 スキルゲージ奪取 <color\=#18bcf2>Ｌｖ.２</color>=Steal Skill Gauge <color\=#18bcf2>Ｌｖ.２</color>
 スキルゲージ奪取 <color\=#18bcf2>Ｌｖ.３</color>=Steal Skill Gauge <color\=#18bcf2>Ｌｖ.３</color>
 スキルゲージ奪取 <color\=#18bcf2>Ｌｖ.４</color>=Steal Skill Gauge <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.１</color>=Movement speed up (on shutter activation) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.２</color>=Movement speed up (on shutter activation) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.３</color>=Movement speed up (on shutter activation) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.４</color>=Movement speed up (on shutter activation) <color\=#18bcf2>Ｌｖ.４</color>
-気絶耐性 <color\=#18bcf2>Ｌｖ.１</color>=Stunning resistance <color\=#18bcf2>Ｌｖ.１</color>
-気絶耐性 <color\=#18bcf2>Ｌｖ.２</color>=Stunning resistance <color\=#18bcf2>Ｌｖ.２</color>
-気絶耐性 <color\=#18bcf2>Ｌｖ.３</color>=Stunning resistance <color\=#18bcf2>Ｌｖ.３</color>
-気絶耐性 <color\=#18bcf2>Ｌｖ.４</color>=Stunning resistance <color\=#18bcf2>Ｌｖ.４</color>
-自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.１</color>=Self-proclaimed 10 billion IQ <color\=#18bcf2>Ｌｖ.１</color>
-自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.２</color>=Self-proclaimed 10 billion IQ <color\=#18bcf2>Ｌｖ.２</color>
-自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.３</color>=Self-proclaimed 10 billion IQ <color\=#18bcf2>Ｌｖ.３</color>
-自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.４</color>=Self-proclaimed 10 billion IQ <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.１</color>=Juden speed increased (keypower dependence/many) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.２</color>=Juden speed increased (keypower dependence/many) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.３</color>=Juden speed increased (keypower dependence/many) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.４</color>=Juden speed increased (keypower dependence/many) <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery (when jumping success) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery (when jumping success) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery (when jumping success) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery (when jumping success) <color\=#18bcf2>Ｌｖ.４</color>
-予定不調和 <color\=#18bcf2>Ｌｖ.１</color>=Inexperienced <color\=#18bcf2>Ｌｖ.１</color>
-予定不調和 <color\=#18bcf2>Ｌｖ.２</color>=Inexperienced <color\=#18bcf2>Ｌｖ.２</color>
-予定不調和 <color\=#18bcf2>Ｌｖ.３</color>=Inexperienced <color\=#18bcf2>Ｌｖ.３</color>
-予定不調和 <color\=#18bcf2>Ｌｖ.４</color>=Inexperienced <color\=#18bcf2>Ｌｖ.４</color>
-キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.１</color>=Automatic key power acquisition (in crisis) <color\=#18bcf2>Ｌｖ.１</color>
-キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.２</color>=Automatic key power acquisition (in crisis) <color\=#18bcf2>Ｌｖ.２</color>
-キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.３</color>=Automatic key power acquisition (in crisis) <color\=#18bcf2>Ｌｖ.３</color>
-キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.４</color>=Automatic key power acquisition (in crisis) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge penalty time reduction <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge penalty time reduction <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge penalty time reduction <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge penalty time reduction <color\=#18bcf2>Ｌｖ.４</color>
-プワゾンガール <color\=#18bcf2>Ｌｖ.１</color>=Puwazon Girl <color\=#18bcf2>Ｌｖ.１</color>
-プワゾンガール <color\=#18bcf2>Ｌｖ.２</color>=Puwazon Girl <color\=#18bcf2>Ｌｖ.２</color>
-プワゾンガール <color\=#18bcf2>Ｌｖ.３</color>=Puwazon Girl <color\=#18bcf2>Ｌｖ.３</color>
-プワゾンガール <color\=#18bcf2>Ｌｖ.４</color>=Puwazon Girl <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.１</color>=Juden speed increased (Tamashii 1) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.２</color>=Juden speed increased (Tamashii 1) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.３</color>=Juden speed increased (Tamashii 1) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.４</color>=Juden speed increased (Tamashii 1) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge consumption reduction (Tamashii 3) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge consumption reduction (Tamashii 3) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge consumption reduction (Tamashii 3) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge consumption reduction (Tamashii 3) <color\=#18bcf2>Ｌｖ.４</color>
-白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.１</color>=White coat Ponkotsu Angel <color\=#18bcf2>Ｌｖ.１</color>
-白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.２</color>=White coat Ponkotsu Angel <color\=#18bcf2>Ｌｖ.２</color>
-白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.３</color>=White coat Ponkotsu Angel <color\=#18bcf2>Ｌｖ.３</color>
-白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.４</color>=White coat Ponkotsu Angel <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.１</color>=Juden speed increased (cooperation) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.２</color>=Juden speed increased (cooperation) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.３</color>=Juden speed increased (cooperation) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.４</color>=Juden speed increased (cooperation) <color\=#18bcf2>Ｌｖ.４</color>
-味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.１</color>=Restoration of allied skill gauge (when using skills) <color\=#18bcf2>Ｌｖ.１</color>
-味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.２</color>=Restoration of allied skill gauge (when using skills) <color\=#18bcf2>Ｌｖ.２</color>
-味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.３</color>=Restoration of allied skill gauge (when using skills) <color\=#18bcf2>Ｌｖ.３</color>
-味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.４</color>=Restoration of allied skill gauge (when using skills) <color\=#18bcf2>Ｌｖ.４</color>
-陸上部の現エース <color\=#18bcf2>Ｌｖ.１</color>=Current ace of the track and field <color\=#18bcf2>Ｌｖ.１</color>
-陸上部の現エース <color\=#18bcf2>Ｌｖ.２</color>=Current ace of the track and field <color\=#18bcf2>Ｌｖ.２</color>
-陸上部の現エース <color\=#18bcf2>Ｌｖ.３</color>=Current ace of the track and field <color\=#18bcf2>Ｌｖ.３</color>
-陸上部の現エース <color\=#18bcf2>Ｌｖ.４</color>=Current ace of the track and field <color\=#18bcf2>Ｌｖ.４</color>
-ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.１</color>=Short search (warp point) <color\=#18bcf2>Ｌｖ.１</color>
-ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.２</color>=Short search (warp point) <color\=#18bcf2>Ｌｖ.２</color>
-ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.３</color>=Short search (warp point) <color\=#18bcf2>Ｌｖ.３</color>
-ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.４</color>=Short search (warp point) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed up (when losing) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed up (when losing) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed up (when losing) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed up (when losing) <color\=#18bcf2>Ｌｖ.４</color>
-剣帝 <color\=#18bcf2>Ｌｖ.１</color>=Sword emperor <color\=#18bcf2>Ｌｖ.１</color>
-剣帝 <color\=#18bcf2>Ｌｖ.２</color>=Sword emperor <color\=#18bcf2>Ｌｖ.２</color>
-剣帝 <color\=#18bcf2>Ｌｖ.３</color>=Sword emperor <color\=#18bcf2>Ｌｖ.３</color>
-剣帝 <color\=#18bcf2>Ｌｖ.４</color>=Sword emperor <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge consumption reduction (when killing) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge consumption reduction (when killing) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge consumption reduction (when killing) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge consumption reduction (when killing) <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery up (near enemies) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery up (near enemies) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery up (near enemies) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery up (near enemies) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.１</color>=Moving speed increases (at the start of human movement) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.２</color>=Moving speed increases (at the start of human movement) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.３</color>=Moving speed increases (at the start of human movement) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.４</color>=Moving speed increases (at the start of human movement) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (On Shutter Activation) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (On Shutter Activation) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (On Shutter Activation) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（シャッター起動時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (On Shutter Activation) <color\=#18bcf2>Ｌｖ.４</color>
+気絶耐性 <color\=#18bcf2>Ｌｖ.１</color>=Stun Resistance <color\=#18bcf2>Ｌｖ.１</color>
+気絶耐性 <color\=#18bcf2>Ｌｖ.２</color>=Stun Resistance <color\=#18bcf2>Ｌｖ.２</color>
+気絶耐性 <color\=#18bcf2>Ｌｖ.３</color>=Stun Resistance <color\=#18bcf2>Ｌｖ.３</color>
+気絶耐性 <color\=#18bcf2>Ｌｖ.４</color>=Stun Resistance <color\=#18bcf2>Ｌｖ.４</color>
+自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.１</color>=Self-Proclaimed IQ of 10 Billion <color\=#18bcf2>Ｌｖ.１</color>
+自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.２</color>=Self-Proclaimed IQ of 10 Billion <color\=#18bcf2>Ｌｖ.２</color>
+自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.３</color>=Self-Proclaimed IQ of 10 Billion <color\=#18bcf2>Ｌｖ.３</color>
+自称ＩＱ１００億 <color\=#18bcf2>Ｌｖ.４</color>=Self-Proclaimed IQ of 10 Billion <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (Key Power Dependent/High) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (Key Power Dependent/High) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (Key Power Dependent/High) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度上昇（キーパワー依存/多） <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (Key Power Dependent/High) <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery (On Successful Jump) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery (On Successful Jump) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery (On Successful Jump) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復（ジャンプ成功時） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery (On Successful Jump) <color\=#18bcf2>Ｌｖ.４</color>
+予定不調和 <color\=#18bcf2>Ｌｖ.１</color>=Pre-Established Disharmony <color\=#18bcf2>Ｌｖ.１</color>
+予定不調和 <color\=#18bcf2>Ｌｖ.２</color>=Pre-Established Disharmony <color\=#18bcf2>Ｌｖ.２</color>
+予定不調和 <color\=#18bcf2>Ｌｖ.３</color>=Pre-Established Disharmony <color\=#18bcf2>Ｌｖ.３</color>
+予定不調和 <color\=#18bcf2>Ｌｖ.４</color>=Pre-Established Disharmony <color\=#18bcf2>Ｌｖ.４</color>
+キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.１</color>=Auto Key Power Gain (In Danger) <color\=#18bcf2>Ｌｖ.１</color>
+キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.２</color>=Auto Key Power Gain (In Danger) <color\=#18bcf2>Ｌｖ.２</color>
+キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.３</color>=Auto Key Power Gain (In Danger) <color\=#18bcf2>Ｌｖ.３</color>
+キーパワー自動取得（危機時） <color\=#18bcf2>Ｌｖ.４</color>=Auto Key Power Gain (In Danger) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Penalty Time Reduction <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Penalty Time Reduction <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Penalty Time Reduction <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージペナルティ時間減少 <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Penalty Time Reduction <color\=#18bcf2>Ｌｖ.４</color>
+プワゾンガール <color\=#18bcf2>Ｌｖ.１</color>=Poison Girl <color\=#18bcf2>Ｌｖ.１</color>
+プワゾンガール <color\=#18bcf2>Ｌｖ.２</color>=Poison Girl <color\=#18bcf2>Ｌｖ.２</color>
+プワゾンガール <color\=#18bcf2>Ｌｖ.３</color>=Poison Girl <color\=#18bcf2>Ｌｖ.３</color>
+プワゾンガール <color\=#18bcf2>Ｌｖ.４</color>=Poison Girl <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (Tamashii 1) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (Tamashii 1) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (Tamashii 1) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度上昇（タマシイ1） <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (Tamashii 1) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Consumption Down (Tamashii 3) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Consumption Down (Tamashii 3) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Consumption Down (Tamashii 3) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ消費量軽減（タマシイ3） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Consumption Down (Tamashii 3) <color\=#18bcf2>Ｌｖ.４</color>
+白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.１</color>=Clumsy Angel in a White Coat <color\=#18bcf2>Ｌｖ.１</color>
+白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.２</color>=Clumsy Angel in a White Coat <color\=#18bcf2>Ｌｖ.２</color>
+白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.３</color>=Clumsy Angel in a White Coat <color\=#18bcf2>Ｌｖ.３</color>
+白衣のポンコツ天使 <color\=#18bcf2>Ｌｖ.４</color>=Clumsy Angel in a White Coat <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (Teamwork) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (Teamwork) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (Teamwork) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度上昇（協力） <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (Teamwork) <color\=#18bcf2>Ｌｖ.４</color>
+味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.１</color>=Ally Skill Gauge Recovery (On Skill Use) <color\=#18bcf2>Ｌｖ.１</color>
+味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.２</color>=Ally Skill Gauge Recovery (On Skill Use) <color\=#18bcf2>Ｌｖ.２</color>
+味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.３</color>=Ally Skill Gauge Recovery (On Skill Use) <color\=#18bcf2>Ｌｖ.３</color>
+味方スキルゲージ回復（スキル使用時） <color\=#18bcf2>Ｌｖ.４</color>=Ally Skill Gauge Recovery (On Skill Use) <color\=#18bcf2>Ｌｖ.４</color>
+陸上部の現エース <color\=#18bcf2>Ｌｖ.１</color>=Current Track & Field Ace <color\=#18bcf2>Ｌｖ.１</color>
+陸上部の現エース <color\=#18bcf2>Ｌｖ.２</color>=Current Track & Field Ace <color\=#18bcf2>Ｌｖ.２</color>
+陸上部の現エース <color\=#18bcf2>Ｌｖ.３</color>=Current Track & Field Ace <color\=#18bcf2>Ｌｖ.３</color>
+陸上部の現エース <color\=#18bcf2>Ｌｖ.４</color>=Current Track & Field Ace <color\=#18bcf2>Ｌｖ.４</color>
+ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.１</color>=Short Search (Warp Point) <color\=#18bcf2>Ｌｖ.１</color>
+ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.２</color>=Short Search (Warp Point) <color\=#18bcf2>Ｌｖ.２</color>
+ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.３</color>=Short Search (Warp Point) <color\=#18bcf2>Ｌｖ.３</color>
+ショートサーチ（ワープポイント） <color\=#18bcf2>Ｌｖ.４</color>=Short Search (Warp Point) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.４</color>
+剣帝 <color\=#18bcf2>Ｌｖ.１</color>=Sword Emperor <color\=#18bcf2>Ｌｖ.１</color>
+剣帝 <color\=#18bcf2>Ｌｖ.２</color>=Sword Emperor <color\=#18bcf2>Ｌｖ.２</color>
+剣帝 <color\=#18bcf2>Ｌｖ.３</color>=Sword Emperor <color\=#18bcf2>Ｌｖ.３</color>
+剣帝 <color\=#18bcf2>Ｌｖ.４</color>=Sword Emperor <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Consumption Down (On Kill) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Consumption Down (On Kill) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Consumption Down (On Kill) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ消費量軽減（キル時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Consumption Down (On Kill) <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery Up (Near Enemies) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery Up (Near Enemies) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery Up (Near Enemies) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復速度上昇（接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery Up (Near Enemies) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (Human Turn Start) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (Human Turn Start) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (Human Turn Start) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ヒト移動開始時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (Human Turn Start) <color\=#18bcf2>Ｌｖ.４</color>
 オートジュウデン <color\=#18bcf2>Ｌｖ.１</color>=Auto Charge <color\=#18bcf2>Ｌｖ.１</color>
 オートジュウデン <color\=#18bcf2>Ｌｖ.２</color>=Auto Charge <color\=#18bcf2>Ｌｖ.２</color>
 オートジュウデン <color\=#18bcf2>Ｌｖ.３</color>=Auto Charge <color\=#18bcf2>Ｌｖ.３</color>
 オートジュウデン <color\=#18bcf2>Ｌｖ.４</color>=Auto Charge <color\=#18bcf2>Ｌｖ.４</color>
-イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.１</color>=Inazuma ☆ Mi ROCK <color\=#18bcf2>Ｌｖ.１</color>
-イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.２</color>=Inazuma ☆ Mi ROCK <color\=#18bcf2>Ｌｖ.２</color>
-イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.３</color>=Inazuma ☆ Mi ROCK <color\=#18bcf2>Ｌｖ.３</color>
-イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.４</color>=Inazuma ☆ Mi ROCK <color\=#18bcf2>Ｌｖ.４</color>
-アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.１</color>=Item replenishment (at the start of the turn) <color\=#18bcf2>Ｌｖ.１</color>
-アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.２</color>=Item replenishment (at the start of the turn) <color\=#18bcf2>Ｌｖ.２</color>
-アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.３</color>=Item replenishment (at the start of the turn) <color\=#18bcf2>Ｌｖ.３</color>
-アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.４</color>=Item replenishment (at the start of the turn) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.１</color>=Moving speed increases (during sliding) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.２</color>=Moving speed increases (during sliding) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.３</color>=Moving speed increases (during sliding) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.４</color>=Moving speed increases (during sliding) <color\=#18bcf2>Ｌｖ.４</color>
-チェイン時間延長 <color\=#18bcf2>Ｌｖ.１</color>=Chain time extension <color\=#18bcf2>Ｌｖ.１</color>
-チェイン時間延長 <color\=#18bcf2>Ｌｖ.２</color>=Chain time extension <color\=#18bcf2>Ｌｖ.２</color>
-チェイン時間延長 <color\=#18bcf2>Ｌｖ.３</color>=Chain time extension <color\=#18bcf2>Ｌｖ.３</color>
-チェイン時間延長 <color\=#18bcf2>Ｌｖ.４</color>=Chain time extension <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.１</color>=Movement speed increase (slight amount) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.２</color>=Movement speed increase (slight amount) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.３</color>=Movement speed increase (slight amount) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.４</color>=Movement speed increase (slight amount) <color\=#18bcf2>Ｌｖ.４</color>
-だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.１</color>=Because he's a god♪ <color\=#18bcf2>Ｌｖ.１</color>
-だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.２</color>=Because he's a god♪ <color\=#18bcf2>Ｌｖ.２</color>
-だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.３</color>=Because he's a god♪ <color\=#18bcf2>Ｌｖ.３</color>
-だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.４</color>=Because he's a god♪ <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (during gimmick jump) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (during gimmick jump) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (during gimmick jump) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (during gimmick jump) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.１</color>=Increased dash speed (increased dash gauge consumption) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.２</color>=Increased dash speed (increased dash gauge consumption) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.３</color>=Increased dash speed (increased dash gauge consumption) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.４</color>=Increased dash speed (increased dash gauge consumption) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (dash gauge 40%~60%) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (dash gauge 40%~60%) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (dash gauge 40%~60%) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (dash gauge 40%~60%) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (when stealth effect is activated) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (when stealth effect is activated) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (when stealth effect is activated) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (when stealth effect is activated) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (during attack) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (during attack) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (during attack) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (during attack) <color\=#18bcf2>Ｌｖ.４</color>
-207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.１</color>=207 Disadvantage effect (penalty time increase) <color\=#18bcf2>Ｌｖ.１</color>
-207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.２</color>=207 Disadvantage effect (penalty time increase) <color\=#18bcf2>Ｌｖ.２</color>
-207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.３</color>=207 Disadvantage effect (penalty time increase) <color\=#18bcf2>Ｌｖ.３</color>
-207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.４</color>=207 Disadvantage effect (penalty time increase) <color\=#18bcf2>Ｌｖ.４</color>
-111リセット <color\=#18bcf2>Ｌｖ.１</color>=111 reset <color\=#18bcf2>Ｌｖ.１</color>
-111リセット <color\=#18bcf2>Ｌｖ.２</color>=111 reset <color\=#18bcf2>Ｌｖ.２</color>
-111リセット <color\=#18bcf2>Ｌｖ.３</color>=111 reset <color\=#18bcf2>Ｌｖ.３</color>
-111リセット <color\=#18bcf2>Ｌｖ.４</color>=111 reset <color\=#18bcf2>Ｌｖ.４</color>
-475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.１</color>=475 Juden speed adjustment <color\=#18bcf2>Ｌｖ.１</color>
-475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.２</color>=475 Juden speed adjustment <color\=#18bcf2>Ｌｖ.２</color>
-475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.３</color>=475 Juden speed adjustment <color\=#18bcf2>Ｌｖ.３</color>
-475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.４</color>=475 Juden speed adjustment <color\=#18bcf2>Ｌｖ.４</color>
-475内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=475 Internal value reset <color\=#18bcf2>Ｌｖ.１</color>
-475内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=475 Internal value reset <color\=#18bcf2>Ｌｖ.２</color>
-475内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=475 Internal value reset <color\=#18bcf2>Ｌｖ.３</color>
-475内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=475 Internal value reset <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (at 50% after penalty) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (at 50% after penalty) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (at 50% after penalty) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (at 50% after penalty) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (dash gauge penalty) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (dash gauge penalty) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (dash gauge penalty) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (dash gauge penalty) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (remaining time 30 seconds or less) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (remaining time 30 seconds or less) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (remaining time 30 seconds or less) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (remaining time 30 seconds or less) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (when warping) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (when warping) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (when warping) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (when warping) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.１</color>=Increased movement speed (when downed) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.２</color>=Increased movement speed (when downed) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.３</color>=Increased movement speed (when downed) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.４</color>=Increased movement speed (when downed) <color\=#18bcf2>Ｌｖ.４</color>
-サカサマの現エース <color\=#18bcf2>Ｌｖ.１</color>=Sakasama's current ace <color\=#18bcf2>Ｌｖ.１</color>
-サカサマの現エース <color\=#18bcf2>Ｌｖ.２</color>=Sakasama's current ace <color\=#18bcf2>Ｌｖ.２</color>
-サカサマの現エース <color\=#18bcf2>Ｌｖ.３</color>=Sakasama's current ace <color\=#18bcf2>Ｌｖ.３</color>
-サカサマの現エース <color\=#18bcf2>Ｌｖ.４</color>=Sakasama's current ace <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.１</color>=Increased dash gauge recovery speed (ally/near) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.２</color>=Increased dash gauge recovery speed (ally/near) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.３</color>=Increased dash gauge recovery speed (ally/near) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.４</color>=Increased dash gauge recovery speed (ally/near) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed increased (when not engaged) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed increased (when not engaged) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed increased (when not engaged) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed increased (when not engaged) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed increased <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed increased <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed increased <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed increased <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.１</color>=Dash speed increase (normal speed decrease) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.２</color>=Dash speed increase (normal speed decrease) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.３</color>=Dash speed increase (normal speed decrease) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.４</color>=Dash speed increase (normal speed decrease) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery (when empty) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery (when empty) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery (when empty) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery (when empty) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery (when acquiring key power) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery (when acquiring key power) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery (when acquiring key power) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery (when acquiring key power) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed increased (penalty increased) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed increased (penalty increased) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed increased (penalty increased) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed increased (penalty increased) <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge recovery speed/consumption greatly increased <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge recovery speed/consumption greatly increased <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge recovery speed/consumption greatly increased <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge recovery speed/consumption greatly increased <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery speed increased <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery speed increased <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery speed increased <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery speed increased <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Dash gauge consumption reduction (when engaging enemy) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Dash gauge consumption reduction (when engaging enemy) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Dash gauge consumption reduction (when engaging enemy) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Dash gauge consumption reduction (when engaging enemy) <color\=#18bcf2>Ｌｖ.４</color>
-スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.１</color>=Skill activation cost reduction <color\=#18bcf2>Ｌｖ.１</color>
-スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.２</color>=Skill activation cost reduction <color\=#18bcf2>Ｌｖ.２</color>
-スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.３</color>=Skill activation cost reduction <color\=#18bcf2>Ｌｖ.３</color>
-スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.４</color>=Skill activation cost reduction <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery speed increased (when one is full) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery speed increased (when one is full) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery speed increased (when one is full) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery speed increased (when one is full) <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery (when shutter is destroyed) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery (when shutter is destroyed) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery (when shutter is destroyed) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery (when shutter is destroyed) <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery (on kill) <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery (on kill) <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery (on kill) <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery (on kill) <color\=#18bcf2>Ｌｖ.４</color>
-キーパワーガード <color\=#18bcf2>Ｌｖ.１</color>=key power guard <color\=#18bcf2>Ｌｖ.１</color>
-キーパワーガード <color\=#18bcf2>Ｌｖ.２</color>=key power guard <color\=#18bcf2>Ｌｖ.２</color>
-キーパワーガード <color\=#18bcf2>Ｌｖ.３</color>=key power guard <color\=#18bcf2>Ｌｖ.３</color>
-キーパワーガード <color\=#18bcf2>Ｌｖ.４</color>=key power guard <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュジュウデン <color\=#18bcf2>Ｌｖ.１</color>=dash juden <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュジュウデン <color\=#18bcf2>Ｌｖ.２</color>=dash juden <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュジュウデン <color\=#18bcf2>Ｌｖ.３</color>=dash juden <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュジュウデン <color\=#18bcf2>Ｌｖ.４</color>=dash juden <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.１</color>=Juden speed increase (when at a disadvantage) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.２</color>=Juden speed increase (when at a disadvantage) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.３</color>=Juden speed increase (when at a disadvantage) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.４</color>=Juden speed increase (when at a disadvantage) <color\=#18bcf2>Ｌｖ.４</color>
-シャッター威力強化 <color\=#18bcf2>Ｌｖ.１</color>=Enhanced shutter power <color\=#18bcf2>Ｌｖ.１</color>
-シャッター威力強化 <color\=#18bcf2>Ｌｖ.２</color>=Enhanced shutter power <color\=#18bcf2>Ｌｖ.２</color>
-シャッター威力強化 <color\=#18bcf2>Ｌｖ.３</color>=Enhanced shutter power <color\=#18bcf2>Ｌｖ.３</color>
-シャッター威力強化 <color\=#18bcf2>Ｌｖ.４</color>=Enhanced shutter power <color\=#18bcf2>Ｌｖ.４</color>
-シャッター耐久強化 <color\=#18bcf2>Ｌｖ.１</color>=Enhanced shutter durability <color\=#18bcf2>Ｌｖ.１</color>
-シャッター耐久強化 <color\=#18bcf2>Ｌｖ.２</color>=Enhanced shutter durability <color\=#18bcf2>Ｌｖ.２</color>
-シャッター耐久強化 <color\=#18bcf2>Ｌｖ.３</color>=Enhanced shutter durability <color\=#18bcf2>Ｌｖ.３</color>
-シャッター耐久強化 <color\=#18bcf2>Ｌｖ.４</color>=Enhanced shutter durability <color\=#18bcf2>Ｌｖ.４</color>
-特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.１</color>=Special status abnormality reduction <color\=#18bcf2>Ｌｖ.１</color>
-特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.２</color>=Special status abnormality reduction <color\=#18bcf2>Ｌｖ.２</color>
-特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.３</color>=Special status abnormality reduction <color\=#18bcf2>Ｌｖ.３</color>
-特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.４</color>=Special status abnormality reduction <color\=#18bcf2>Ｌｖ.４</color>
-ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.１</color>=Direct Juden (when defeated) <color\=#18bcf2>Ｌｖ.１</color>
-ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.２</color>=Direct Juden (when defeated) <color\=#18bcf2>Ｌｖ.２</color>
-ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.３</color>=Direct Juden (when defeated) <color\=#18bcf2>Ｌｖ.３</color>
-ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.４</color>=Direct Juden (when defeated) <color\=#18bcf2>Ｌｖ.４</color>
-壁上歩行 <color\=#18bcf2>Ｌｖ.１</color>=wall walking <color\=#18bcf2>Ｌｖ.１</color>
-壁上歩行 <color\=#18bcf2>Ｌｖ.２</color>=wall walking <color\=#18bcf2>Ｌｖ.２</color>
-壁上歩行 <color\=#18bcf2>Ｌｖ.３</color>=wall walking <color\=#18bcf2>Ｌｖ.３</color>
-壁上歩行 <color\=#18bcf2>Ｌｖ.４</color>=wall walking <color\=#18bcf2>Ｌｖ.４</color>
-ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.１</color>=Warp speed increase (dash gauge 0) <color\=#18bcf2>Ｌｖ.１</color>
-ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.２</color>=Warp speed increase (dash gauge 0) <color\=#18bcf2>Ｌｖ.２</color>
-ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.３</color>=Warp speed increase (dash gauge 0) <color\=#18bcf2>Ｌｖ.３</color>
-ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.４</color>=Warp speed increase (dash gauge 0) <color\=#18bcf2>Ｌｖ.４</color>
-ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.１</color>=Warp point reuse time decreased (at 100%) <color\=#18bcf2>Ｌｖ.１</color>
-ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.２</color>=Warp point reuse time decreased (at 100%) <color\=#18bcf2>Ｌｖ.２</color>
-ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.３</color>=Warp point reuse time decreased (at 100%) <color\=#18bcf2>Ｌｖ.３</color>
-ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.４</color>=Warp point reuse time decreased (at 100%) <color\=#18bcf2>Ｌｖ.４</color>
-ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.１</color>=Warp activation time reduction <color\=#18bcf2>Ｌｖ.１</color>
-ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.２</color>=Warp activation time reduction <color\=#18bcf2>Ｌｖ.２</color>
-ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.３</color>=Warp activation time reduction <color\=#18bcf2>Ｌｖ.３</color>
-ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.４</color>=Warp activation time reduction <color\=#18bcf2>Ｌｖ.４</color>
-対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.１</color>=Enhanced anti-shutter attack power <color\=#18bcf2>Ｌｖ.１</color>
-対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.２</color>=Enhanced anti-shutter attack power <color\=#18bcf2>Ｌｖ.２</color>
-対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.３</color>=Enhanced anti-shutter attack power <color\=#18bcf2>Ｌｖ.３</color>
-対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.４</color>=Enhanced anti-shutter attack power <color\=#18bcf2>Ｌｖ.４</color>
-変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.１</color>=Transformation stick replenishment (when starting human/probability) <color\=#18bcf2>Ｌｖ.１</color>
-変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.２</color>=Transformation stick replenishment (when starting human/probability) <color\=#18bcf2>Ｌｖ.２</color>
-変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.３</color>=Transformation stick replenishment (when starting human/probability) <color\=#18bcf2>Ｌｖ.３</color>
-変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.４</color>=Transformation stick replenishment (when starting human/probability) <color\=#18bcf2>Ｌｖ.４</color>
-アイテム効果全体化 <color\=#18bcf2>Ｌｖ.１</color>=Overall item effect <color\=#18bcf2>Ｌｖ.１</color>
-アイテム効果全体化 <color\=#18bcf2>Ｌｖ.２</color>=Overall item effect <color\=#18bcf2>Ｌｖ.２</color>
-アイテム効果全体化 <color\=#18bcf2>Ｌｖ.３</color>=Overall item effect <color\=#18bcf2>Ｌｖ.３</color>
-アイテム効果全体化 <color\=#18bcf2>Ｌｖ.４</color>=Overall item effect <color\=#18bcf2>Ｌｖ.４</color>
-プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.１</color>=Plate hidden (dash gauge kept full) <color\=#18bcf2>Ｌｖ.１</color>
-プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.２</color>=Plate hidden (dash gauge kept full) <color\=#18bcf2>Ｌｖ.２</color>
-プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.３</color>=Plate hidden (dash gauge kept full) <color\=#18bcf2>Ｌｖ.３</color>
-プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.４</color>=Plate hidden (dash gauge kept full) <color\=#18bcf2>Ｌｖ.４</color>
-プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.１</color>=Plate hidden (when dash gauge is full) <color\=#18bcf2>Ｌｖ.１</color>
-プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.２</color>=Plate hidden (when dash gauge is full) <color\=#18bcf2>Ｌｖ.２</color>
-プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.３</color>=Plate hidden (when dash gauge is full) <color\=#18bcf2>Ｌｖ.３</color>
-プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.４</color>=Plate hidden (when dash gauge is full) <color\=#18bcf2>Ｌｖ.４</color>
-プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.１</color>=Plate hidden (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.１</color>
-プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.２</color>=Plate hidden (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.２</color>
-プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.３</color>=Plate hidden (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.３</color>
-プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.４</color>=Plate hidden (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.４</color>
-ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.１</color>=Stealth (waiting for warp) <color\=#18bcf2>Ｌｖ.１</color>
-ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.２</color>=Stealth (waiting for warp) <color\=#18bcf2>Ｌｖ.２</color>
-ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.３</color>=Stealth (waiting for warp) <color\=#18bcf2>Ｌｖ.３</color>
-ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.４</color>=Stealth (waiting for warp) <color\=#18bcf2>Ｌｖ.４</color>
-おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.１</color>=Extended onmitsu time (when revived) <color\=#18bcf2>Ｌｖ.１</color>
-おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.２</color>=Extended onmitsu time (when revived) <color\=#18bcf2>Ｌｖ.２</color>
-おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.３</color>=Extended onmitsu time (when revived) <color\=#18bcf2>Ｌｖ.３</color>
-おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.４</color>=Extended onmitsu time (when revived) <color\=#18bcf2>Ｌｖ.４</color>
-おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.１</color>=Onmitsu (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.１</color>
-おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.２</color>=Onmitsu (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.２</color>
-おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.３</color>=Onmitsu (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.３</color>
-おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.４</color>=Onmitsu (dash gauge above a certain level) <color\=#18bcf2>Ｌｖ.４</color>
-重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity increase (during action button) <color\=#18bcf2>Ｌｖ.１</color>
-重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity increase (during action button) <color\=#18bcf2>Ｌｖ.２</color>
-重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity increase (during action button) <color\=#18bcf2>Ｌｖ.３</color>
-重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity increase (during action button) <color\=#18bcf2>Ｌｖ.４</color>
-重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity increase (during jump button) <color\=#18bcf2>Ｌｖ.１</color>
-重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity increase (during jump button) <color\=#18bcf2>Ｌｖ.２</color>
-重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity increase (during jump button) <color\=#18bcf2>Ｌｖ.３</color>
-重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity increase (during jump button) <color\=#18bcf2>Ｌｖ.４</color>
-重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity rise (during sliding button) <color\=#18bcf2>Ｌｖ.１</color>
-重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity rise (during sliding button) <color\=#18bcf2>Ｌｖ.２</color>
-重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity rise (during sliding button) <color\=#18bcf2>Ｌｖ.３</color>
-重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity rise (during sliding button) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (maximum per RC) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (maximum per RC) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (maximum per RC) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (maximum per RC) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (at the start of the game) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (at the start of the game) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (at the start of the game) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (at the start of the game) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (1pt per second) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (1pt per second) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (1pt per second) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (1pt per second) <color\=#18bcf2>Ｌｖ.４</color>
-重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity reduction (during dash) <color\=#18bcf2>Ｌｖ.１</color>
-重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity reduction (during dash) <color\=#18bcf2>Ｌｖ.２</color>
-重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity reduction (during dash) <color\=#18bcf2>Ｌｖ.３</color>
-重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity reduction (during dash) <color\=#18bcf2>Ｌｖ.４</color>
-重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity increase (during dash button) <color\=#18bcf2>Ｌｖ.１</color>
-重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity increase (during dash button) <color\=#18bcf2>Ｌｖ.２</color>
-重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity increase (during dash button) <color\=#18bcf2>Ｌｖ.３</color>
-重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity increase (during dash button) <color\=#18bcf2>Ｌｖ.４</color>
-AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.１</color>=AP0 reset (lower limit per RC) <color\=#18bcf2>Ｌｖ.１</color>
-AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.２</color>=AP0 reset (lower limit per RC) <color\=#18bcf2>Ｌｖ.２</color>
-AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.３</color>=AP0 reset (lower limit per RC) <color\=#18bcf2>Ｌｖ.３</color>
-AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.４</color>=AP0 reset (lower limit per RC) <color\=#18bcf2>Ｌｖ.４</color>
-AP半減（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP halved (when killed) <color\=#18bcf2>Ｌｖ.１</color>
-AP半減（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP halved (when killed) <color\=#18bcf2>Ｌｖ.２</color>
-AP半減（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP halved (when killed) <color\=#18bcf2>Ｌｖ.３</color>
-AP半減（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP halved (when killed) <color\=#18bcf2>Ｌｖ.４</color>
-AP減少（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP decrease (when killed) <color\=#18bcf2>Ｌｖ.１</color>
-AP減少（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP decrease (when killed) <color\=#18bcf2>Ｌｖ.２</color>
-AP減少（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP decrease (when killed) <color\=#18bcf2>Ｌｖ.３</color>
-AP減少（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP decrease (when killed) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (when killed) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (when killed) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (when killed) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (when killed) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (on kill) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (on kill) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (on kill) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (on kill) <color\=#18bcf2>Ｌｖ.４</color>
-スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Skill gauge recovery amount increased <color\=#18bcf2>Ｌｖ.１</color>
-スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Skill gauge recovery amount increased <color\=#18bcf2>Ｌｖ.２</color>
-スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Skill gauge recovery amount increased <color\=#18bcf2>Ｌｖ.３</color>
-スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Skill gauge recovery amount increased <color\=#18bcf2>Ｌｖ.４</color>
-ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.１</color>=Increased dash gauge consumption (specific to Miroku Kurai) <color\=#18bcf2>Ｌｖ.１</color>
-ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.２</color>=Increased dash gauge consumption (specific to Miroku Kurai) <color\=#18bcf2>Ｌｖ.２</color>
-ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.３</color>=Increased dash gauge consumption (specific to Miroku Kurai) <color\=#18bcf2>Ｌｖ.３</color>
-ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.４</color>=Increased dash gauge consumption (specific to Miroku Kurai) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (Chinon only) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (Chinon only) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (Chinon only) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (Chinon only) <color\=#18bcf2>Ｌｖ.４</color>
-APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.１</color>=AP reset (at the start of the game) <color\=#18bcf2>Ｌｖ.１</color>
-APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.２</color>=AP reset (at the start of the game) <color\=#18bcf2>Ｌｖ.２</color>
-APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.３</color>=AP reset (at the start of the game) <color\=#18bcf2>Ｌｖ.３</color>
-APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.４</color>=AP reset (at the start of the game) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（復活時） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (when revived) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（復活時） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (when revived) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（復活時） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (when revived) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（復活時） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (when revived) <color\=#18bcf2>Ｌｖ.４</color>
-マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.１</color>=Malaria-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.１</color>
-マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.２</color>=Malaria-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.２</color>
-マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.３</color>=Malaria-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.３</color>
-マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.４</color>=Malaria-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.４</color>
-チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamo movement speed increase (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.１</color>
-チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamo movement speed increase (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.２</color>
-チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamo movement speed increase (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.３</color>
-チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamo movement speed increase (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.４</color>
-チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamooni AP recovery speed (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.１</color>
-チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamooni AP recovery speed (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.２</color>
-チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamooni AP recovery speed (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.３</color>
-チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamooni AP recovery speed (beloved Chiamo specific/temporary) <color\=#18bcf2>Ｌｖ.４</color>
-チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamohito AP recovery speed (beloved Chiamo specific/tentative) <color\=#18bcf2>Ｌｖ.１</color>
-チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamohito AP recovery speed (beloved Chiamo specific/tentative) <color\=#18bcf2>Ｌｖ.２</color>
-チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamohito AP recovery speed (beloved Chiamo specific/tentative) <color\=#18bcf2>Ｌｖ.３</color>
-チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamohito AP recovery speed (beloved Chiamo specific/tentative) <color\=#18bcf2>Ｌｖ.４</color>
-移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.１</color>=Movement speed increase (red blade specific) <color\=#18bcf2>Ｌｖ.１</color>
-移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.２</color>=Movement speed increase (red blade specific) <color\=#18bcf2>Ｌｖ.２</color>
-移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.３</color>=Movement speed increase (red blade specific) <color\=#18bcf2>Ｌｖ.３</color>
-移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.４</color>=Movement speed increase (red blade specific) <color\=#18bcf2>Ｌｖ.４</color>
-マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Malaria-specific key power acquisition amount increased <color\=#18bcf2>Ｌｖ.１</color>
-マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Malaria-specific key power acquisition amount increased <color\=#18bcf2>Ｌｖ.２</color>
-マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Malaria-specific key power acquisition amount increased <color\=#18bcf2>Ｌｖ.３</color>
-マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Malaria-specific key power acquisition amount increased <color\=#18bcf2>Ｌｖ.４</color>
-マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Malaria-specific J・S movement speed increase <color\=#18bcf2>Ｌｖ.１</color>
-マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Malaria-specific J・S movement speed increase <color\=#18bcf2>Ｌｖ.２</color>
-マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Malaria-specific J・S movement speed increase <color\=#18bcf2>Ｌｖ.３</color>
-マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Malaria-specific J・S movement speed increase <color\=#18bcf2>Ｌｖ.４</color>
-マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.１</color>=Malaria specific name plate hidden <color\=#18bcf2>Ｌｖ.１</color>
-マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.２</color>=Malaria specific name plate hidden <color\=#18bcf2>Ｌｖ.２</color>
-マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.３</color>=Malaria specific name plate hidden <color\=#18bcf2>Ｌｖ.３</color>
-マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.４</color>=Malaria specific name plate hidden <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu-specific AP recovery when using items <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu-specific AP recovery when using items <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu-specific AP recovery when using items <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu-specific AP recovery when using items <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu-specific AP recovery when using skills <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu-specific AP recovery when using skills <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu-specific AP recovery when using skills <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu-specific AP recovery when using skills <color\=#18bcf2>Ｌｖ.４</color>
-ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Jouka-specific dash gauge consumption increase <color\=#18bcf2>Ｌｖ.１</color>
-ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Jouka-specific dash gauge consumption increase <color\=#18bcf2>Ｌｖ.２</color>
-ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Jouka-specific dash gauge consumption increase <color\=#18bcf2>Ｌｖ.３</color>
-ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Jouka-specific dash gauge consumption increase <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu-specific AP recovery when using dash <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu-specific AP recovery when using dash <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu-specific AP recovery when using dash <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu-specific AP recovery when using dash <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.１</color>=Kururu specific AP consumption <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.２</color>=Kururu specific AP consumption <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.３</color>=Kururu specific AP consumption <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.４</color>=Kururu specific AP consumption <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.１</color>=Krul-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.２</color>=Krul-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.３</color>=Krul-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.４</color>=Krul-specific dash gauge consumption reduction <color\=#18bcf2>Ｌｖ.４</color>
-クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Krul-specific dash speed increase <color\=#18bcf2>Ｌｖ.１</color>
-クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Krul-specific dash speed increase <color\=#18bcf2>Ｌｖ.２</color>
-クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Krul-specific dash speed increase <color\=#18bcf2>Ｌｖ.３</color>
-クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Krul-specific dash speed increase <color\=#18bcf2>Ｌｖ.４</color>
-171デメリット <color\=#18bcf2>Ｌｖ.１</color>=171 Disadvantages <color\=#18bcf2>Ｌｖ.１</color>
-171デメリット <color\=#18bcf2>Ｌｖ.２</color>=171 Disadvantages <color\=#18bcf2>Ｌｖ.２</color>
-171デメリット <color\=#18bcf2>Ｌｖ.３</color>=171 Disadvantages <color\=#18bcf2>Ｌｖ.３</color>
-171デメリット <color\=#18bcf2>Ｌｖ.４</color>=171 Disadvantages <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.１</color>=Juden speed increase (cooperation) (for personal use) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.２</color>=Juden speed increase (cooperation) (for personal use) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.３</color>=Juden speed increase (cooperation) (for personal use) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.４</color>=Juden speed increase (cooperation) (for personal use) <color\=#18bcf2>Ｌｖ.４</color>
-AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.１</color>=AP recovery (for Auto Key Power/Crisis) <color\=#18bcf2>Ｌｖ.１</color>
-AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.２</color>=AP recovery (for Auto Key Power/Crisis) <color\=#18bcf2>Ｌｖ.２</color>
-AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.３</color>=AP recovery (for Auto Key Power/Crisis) <color\=#18bcf2>Ｌｖ.３</color>
-AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.４</color>=AP recovery (for Auto Key Power/Crisis) <color\=#18bcf2>Ｌｖ.４</color>
-ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.１</color>=Charge speed up (scales with Key Power held) <color\=#18bcf2>Ｌｖ.１</color>
-ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.２</color>=Charge speed up (scales with Key Power held) <color\=#18bcf2>Ｌｖ.２</color>
-ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.３</color>=Charge speed up (scales with Key Power held) <color\=#18bcf2>Ｌｖ.３</color>
-ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.４</color>=Charge speed up (scales with Key Power held) <color\=#18bcf2>Ｌｖ.４</color>
-陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.１</color>=Track Ace (instance) <color\=#18bcf2>Ｌｖ.１</color>
-陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.２</color>=Track Ace (instance) <color\=#18bcf2>Ｌｖ.２</color>
-陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.３</color>=Track Ace (instance) <color\=#18bcf2>Ｌｖ.３</color>
-陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.４</color>=Track Ace (instance) <color\=#18bcf2>Ｌｖ.４</color>
-1022内部値消費 <color\=#18bcf2>Ｌｖ.１</color>=1022 internal value consumption <color\=#18bcf2>Ｌｖ.１</color>
-1022内部値消費 <color\=#18bcf2>Ｌｖ.２</color>=1022 internal value consumption <color\=#18bcf2>Ｌｖ.２</color>
-1022内部値消費 <color\=#18bcf2>Ｌｖ.３</color>=1022 internal value consumption <color\=#18bcf2>Ｌｖ.３</color>
-1022内部値消費 <color\=#18bcf2>Ｌｖ.４</color>=1022 internal value consumption <color\=#18bcf2>Ｌｖ.４</color>
-1022内部値全回復 <color\=#18bcf2>Ｌｖ.１</color>=1022 Internal values fully recovered <color\=#18bcf2>Ｌｖ.１</color>
-1022内部値全回復 <color\=#18bcf2>Ｌｖ.２</color>=1022 Internal values fully recovered <color\=#18bcf2>Ｌｖ.２</color>
-1022内部値全回復 <color\=#18bcf2>Ｌｖ.３</color>=1022 Internal values fully recovered <color\=#18bcf2>Ｌｖ.３</color>
-1022内部値全回復 <color\=#18bcf2>Ｌｖ.４</color>=1022 Internal values fully recovered <color\=#18bcf2>Ｌｖ.４</color>
-952内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=952 Internal value reset <color\=#18bcf2>Ｌｖ.１</color>
-952内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=952 Internal value reset <color\=#18bcf2>Ｌｖ.２</color>
-952内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=952 Internal value reset <color\=#18bcf2>Ｌｖ.３</color>
-952内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=952 Internal value reset <color\=#18bcf2>Ｌｖ.４</color>
-952内部値回復 <color\=#18bcf2>Ｌｖ.１</color>=952 Internal value recovery <color\=#18bcf2>Ｌｖ.１</color>
-952内部値回復 <color\=#18bcf2>Ｌｖ.２</color>=952 Internal value recovery <color\=#18bcf2>Ｌｖ.２</color>
-952内部値回復 <color\=#18bcf2>Ｌｖ.３</color>=952 Internal value recovery <color\=#18bcf2>Ｌｖ.３</color>
-952内部値回復 <color\=#18bcf2>Ｌｖ.４</color>=952 Internal value recovery <color\=#18bcf2>Ｌｖ.４</color>
-475内部値増加 <color\=#18bcf2>Ｌｖ.１</color>=475 internal value increase <color\=#18bcf2>Ｌｖ.１</color>
-475内部値増加 <color\=#18bcf2>Ｌｖ.２</color>=475 internal value increase <color\=#18bcf2>Ｌｖ.２</color>
-475内部値増加 <color\=#18bcf2>Ｌｖ.３</color>=475 internal value increase <color\=#18bcf2>Ｌｖ.３</color>
-475内部値増加 <color\=#18bcf2>Ｌｖ.４</color>=475 internal value increase <color\=#18bcf2>Ｌｖ.４</color>
-206デメリット <color\=#18bcf2>Ｌｖ.１</color>=206 Disadvantages <color\=#18bcf2>Ｌｖ.１</color>
-206デメリット <color\=#18bcf2>Ｌｖ.２</color>=206 Disadvantages <color\=#18bcf2>Ｌｖ.２</color>
-206デメリット <color\=#18bcf2>Ｌｖ.３</color>=206 Disadvantages <color\=#18bcf2>Ｌｖ.３</color>
-206デメリット <color\=#18bcf2>Ｌｖ.４</color>=206 Disadvantages <color\=#18bcf2>Ｌｖ.４</color>
-172デメリット <color\=#18bcf2>Ｌｖ.１</color>=172 Disadvantages <color\=#18bcf2>Ｌｖ.１</color>
-172デメリット <color\=#18bcf2>Ｌｖ.２</color>=172 Disadvantages <color\=#18bcf2>Ｌｖ.２</color>
-172デメリット <color\=#18bcf2>Ｌｖ.３</color>=172 Disadvantages <color\=#18bcf2>Ｌｖ.３</color>
-172デメリット <color\=#18bcf2>Ｌｖ.４</color>=172 Disadvantages <color\=#18bcf2>Ｌｖ.４</color>
-1023内部値回復 <color\=#18bcf2>Ｌｖ.１</color>=1023 Internal value recovery <color\=#18bcf2>Ｌｖ.１</color>
-1023内部値回復 <color\=#18bcf2>Ｌｖ.２</color>=1023 Internal value recovery <color\=#18bcf2>Ｌｖ.２</color>
-1023内部値回復 <color\=#18bcf2>Ｌｖ.３</color>=1023 Internal value recovery <color\=#18bcf2>Ｌｖ.３</color>
-1023内部値回復 <color\=#18bcf2>Ｌｖ.４</color>=1023 Internal value recovery <color\=#18bcf2>Ｌｖ.４</color>
-1023内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=1023 Internal value reset <color\=#18bcf2>Ｌｖ.１</color>
-1023内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=1023 Internal value reset <color\=#18bcf2>Ｌｖ.２</color>
-1023内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=1023 Internal value reset <color\=#18bcf2>Ｌｖ.３</color>
-1023内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=1023 Internal value reset <color\=#18bcf2>Ｌｖ.４</color>
+イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.１</color>=Inazuma☆Mi ROCK <color\=#18bcf2>Ｌｖ.１</color>
+イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.２</color>=Inazuma☆Mi ROCK <color\=#18bcf2>Ｌｖ.２</color>
+イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.３</color>=Inazuma☆Mi ROCK <color\=#18bcf2>Ｌｖ.３</color>
+イナズマ☆ミＲＯＣＫ <color\=#18bcf2>Ｌｖ.４</color>=Inazuma☆Mi ROCK <color\=#18bcf2>Ｌｖ.４</color>
+アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.１</color>=Item Refill (Turn Start) <color\=#18bcf2>Ｌｖ.１</color>
+アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.２</color>=Item Refill (Turn Start) <color\=#18bcf2>Ｌｖ.２</color>
+アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.３</color>=Item Refill (Turn Start) <color\=#18bcf2>Ｌｖ.３</color>
+アイテム補充（ターン開始時） <color\=#18bcf2>Ｌｖ.４</color>=Item Refill (Turn Start) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (While Sliding) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (While Sliding) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (While Sliding) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（スライディング中） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (While Sliding) <color\=#18bcf2>Ｌｖ.４</color>
+チェイン時間延長 <color\=#18bcf2>Ｌｖ.１</color>=Chain Window Extension <color\=#18bcf2>Ｌｖ.１</color>
+チェイン時間延長 <color\=#18bcf2>Ｌｖ.２</color>=Chain Window Extension <color\=#18bcf2>Ｌｖ.２</color>
+チェイン時間延長 <color\=#18bcf2>Ｌｖ.３</color>=Chain Window Extension <color\=#18bcf2>Ｌｖ.３</color>
+チェイン時間延長 <color\=#18bcf2>Ｌｖ.４</color>=Chain Window Extension <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (Slight) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (Slight) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (Slight) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（微量） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (Slight) <color\=#18bcf2>Ｌｖ.４</color>
+だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.１</color>=Because She's a God♪ <color\=#18bcf2>Ｌｖ.１</color>
+だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.２</color>=Because She's a God♪ <color\=#18bcf2>Ｌｖ.２</color>
+だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.３</color>=Because She's a God♪ <color\=#18bcf2>Ｌｖ.３</color>
+だって神だも～～ん♪ <color\=#18bcf2>Ｌｖ.４</color>=Because She's a God♪ <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (During Gimmick Jump) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (During Gimmick Jump) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (During Gimmick Jump) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ギミックジャンプ中） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (During Gimmick Jump) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.１</color>=Dash Speed Up (Higher Dash Gauge Use) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.２</color>=Dash Speed Up (Higher Dash Gauge Use) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.３</color>=Dash Speed Up (Higher Dash Gauge Use) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュ速度上昇（ダッシュゲージ消費量上昇） <color\=#18bcf2>Ｌｖ.４</color>=Dash Speed Up (Higher Dash Gauge Use) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (Dash Gauge 40%~60%) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (Dash Gauge 40%~60%) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (Dash Gauge 40%~60%) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ダッシュゲージ40%~60%） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (Dash Gauge 40%~60%) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (On Stealth Trigger) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (On Stealth Trigger) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (On Stealth Trigger) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ステルス効果発動時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (On Stealth Trigger) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (While Attacking) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (While Attacking) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (While Attacking) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（攻撃中） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (While Attacking) <color\=#18bcf2>Ｌｖ.４</color>
+207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.１</color>=207 Demerit Effect (Penalty Time Increase) <color\=#18bcf2>Ｌｖ.１</color>
+207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.２</color>=207 Demerit Effect (Penalty Time Increase) <color\=#18bcf2>Ｌｖ.２</color>
+207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.３</color>=207 Demerit Effect (Penalty Time Increase) <color\=#18bcf2>Ｌｖ.３</color>
+207デメリット効果（ペナルティ時間増加） <color\=#18bcf2>Ｌｖ.４</color>=207 Demerit Effect (Penalty Time Increase) <color\=#18bcf2>Ｌｖ.４</color>
+111リセット <color\=#18bcf2>Ｌｖ.１</color>=111 Reset <color\=#18bcf2>Ｌｖ.１</color>
+111リセット <color\=#18bcf2>Ｌｖ.２</color>=111 Reset <color\=#18bcf2>Ｌｖ.２</color>
+111リセット <color\=#18bcf2>Ｌｖ.３</color>=111 Reset <color\=#18bcf2>Ｌｖ.３</color>
+111リセット <color\=#18bcf2>Ｌｖ.４</color>=111 Reset <color\=#18bcf2>Ｌｖ.４</color>
+475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.１</color>=475 Charge Speed Adjustment <color\=#18bcf2>Ｌｖ.１</color>
+475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.２</color>=475 Charge Speed Adjustment <color\=#18bcf2>Ｌｖ.２</color>
+475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.３</color>=475 Charge Speed Adjustment <color\=#18bcf2>Ｌｖ.３</color>
+475ジュウデン速度調整 <color\=#18bcf2>Ｌｖ.４</color>=475 Charge Speed Adjustment <color\=#18bcf2>Ｌｖ.４</color>
+475内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=475 Internal Value Reset <color\=#18bcf2>Ｌｖ.１</color>
+475内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=475 Internal Value Reset <color\=#18bcf2>Ｌｖ.２</color>
+475内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=475 Internal Value Reset <color\=#18bcf2>Ｌｖ.３</color>
+475内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=475 Internal Value Reset <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (50% After Penalty) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (50% After Penalty) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (50% After Penalty) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ペナルティ後 ５０％時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (50% After Penalty) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (During Dash Gauge Penalty) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (During Dash Gauge Penalty) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (During Dash Gauge Penalty) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ダッシュゲージペナルティ時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (During Dash Gauge Penalty) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (Under 30s Remaining) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (Under 30s Remaining) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (Under 30s Remaining) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（残り時間30秒以下） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (Under 30s Remaining) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (On Warp) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (On Warp) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (On Warp) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇（ワープ時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (On Warp) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (When Human Is Downed) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (When Human Is Downed) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (When Human Is Downed) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇 （ヒトダウン時） <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (When Human Is Downed) <color\=#18bcf2>Ｌｖ.４</color>
+サカサマの現エース <color\=#18bcf2>Ｌｖ.１</color>=Current Ace of Sakasama <color\=#18bcf2>Ｌｖ.１</color>
+サカサマの現エース <color\=#18bcf2>Ｌｖ.２</color>=Current Ace of Sakasama <color\=#18bcf2>Ｌｖ.２</color>
+サカサマの現エース <color\=#18bcf2>Ｌｖ.３</color>=Current Ace of Sakasama <color\=#18bcf2>Ｌｖ.３</color>
+サカサマの現エース <color\=#18bcf2>Ｌｖ.４</color>=Current Ace of Sakasama <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up (Ally Nearby) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up (Ally Nearby) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up (Ally Nearby) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇（味方／近） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up (Ally Nearby) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up (No Enemies Nearby) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up (No Enemies Nearby) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up (No Enemies Nearby) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇（非接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up (No Enemies Nearby) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.１</color>=Dash Speed Up (Normal Speed Down) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.２</color>=Dash Speed Up (Normal Speed Down) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.３</color>=Dash Speed Up (Normal Speed Down) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュ速度上昇（通常速度減少） <color\=#18bcf2>Ｌｖ.４</color>=Dash Speed Up (Normal Speed Down) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery (On Empty) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery (On Empty) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery (On Empty) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復（Ｅｍｐｔｙ時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery (On Empty) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery (On Key Power Gain) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery (On Key Power Gain) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery (On Key Power Gain) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復（キーパワー取得時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery (On Key Power Gain) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery Speed Up (Penalty Up) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery Speed Up (Penalty Up) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery Speed Up (Penalty Up) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度上昇（ペナルティアップ） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery Speed Up (Penalty Up) <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Recovery/Consumption Greatly Increased <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Recovery/Consumption Greatly Increased <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Recovery/Consumption Greatly Increased <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ回復速度／消費量大幅増加 <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Recovery/Consumption Greatly Increased <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery Speed Up <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Consumption Down (Near Enemies) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Consumption Down (Near Enemies) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Consumption Down (Near Enemies) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ消費量軽減（接敵時） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Consumption Down (Near Enemies) <color\=#18bcf2>Ｌｖ.４</color>
+スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.１</color>=Skill Activation Cost Down <color\=#18bcf2>Ｌｖ.１</color>
+スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.２</color>=Skill Activation Cost Down <color\=#18bcf2>Ｌｖ.２</color>
+スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.３</color>=Skill Activation Cost Down <color\=#18bcf2>Ｌｖ.３</color>
+スキル発動コスト減少 <color\=#18bcf2>Ｌｖ.４</color>=Skill Activation Cost Down <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery Speed Up (Other Full) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery Speed Up (Other Full) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery Speed Up (Other Full) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復速度上昇（片方満タン時） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery Speed Up (Other Full) <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery (On Shutter Destroyed) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery (On Shutter Destroyed) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery (On Shutter Destroyed) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復（シャッター破壊時） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery (On Shutter Destroyed) <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery (On Kill) <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery (On Kill) <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery (On Kill) <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復（キル時） <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery (On Kill) <color\=#18bcf2>Ｌｖ.４</color>
+キーパワーガード <color\=#18bcf2>Ｌｖ.１</color>=Key Power Guard <color\=#18bcf2>Ｌｖ.１</color>
+キーパワーガード <color\=#18bcf2>Ｌｖ.２</color>=Key Power Guard <color\=#18bcf2>Ｌｖ.２</color>
+キーパワーガード <color\=#18bcf2>Ｌｖ.３</color>=Key Power Guard <color\=#18bcf2>Ｌｖ.３</color>
+キーパワーガード <color\=#18bcf2>Ｌｖ.４</color>=Key Power Guard <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュジュウデン <color\=#18bcf2>Ｌｖ.１</color>=Dash Charge <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュジュウデン <color\=#18bcf2>Ｌｖ.２</color>=Dash Charge <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュジュウデン <color\=#18bcf2>Ｌｖ.３</color>=Dash Charge <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュジュウデン <color\=#18bcf2>Ｌｖ.４</color>=Dash Charge <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度上昇（劣勢時） <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (When Behind) <color\=#18bcf2>Ｌｖ.４</color>
+シャッター威力強化 <color\=#18bcf2>Ｌｖ.１</color>=Shutter Power Up <color\=#18bcf2>Ｌｖ.１</color>
+シャッター威力強化 <color\=#18bcf2>Ｌｖ.２</color>=Shutter Power Up <color\=#18bcf2>Ｌｖ.２</color>
+シャッター威力強化 <color\=#18bcf2>Ｌｖ.３</color>=Shutter Power Up <color\=#18bcf2>Ｌｖ.３</color>
+シャッター威力強化 <color\=#18bcf2>Ｌｖ.４</color>=Shutter Power Up <color\=#18bcf2>Ｌｖ.４</color>
+シャッター耐久強化 <color\=#18bcf2>Ｌｖ.１</color>=Shutter Durability Up <color\=#18bcf2>Ｌｖ.１</color>
+シャッター耐久強化 <color\=#18bcf2>Ｌｖ.２</color>=Shutter Durability Up <color\=#18bcf2>Ｌｖ.２</color>
+シャッター耐久強化 <color\=#18bcf2>Ｌｖ.３</color>=Shutter Durability Up <color\=#18bcf2>Ｌｖ.３</color>
+シャッター耐久強化 <color\=#18bcf2>Ｌｖ.４</color>=Shutter Durability Up <color\=#18bcf2>Ｌｖ.４</color>
+特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.１</color>=Special Status Ailment Reduction <color\=#18bcf2>Ｌｖ.１</color>
+特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.２</color>=Special Status Ailment Reduction <color\=#18bcf2>Ｌｖ.２</color>
+特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.３</color>=Special Status Ailment Reduction <color\=#18bcf2>Ｌｖ.３</color>
+特殊状態異常軽減 <color\=#18bcf2>Ｌｖ.４</color>=Special Status Ailment Reduction <color\=#18bcf2>Ｌｖ.４</color>
+ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.１</color>=Direct Charge (On Defeat) <color\=#18bcf2>Ｌｖ.１</color>
+ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.２</color>=Direct Charge (On Defeat) <color\=#18bcf2>Ｌｖ.２</color>
+ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.３</color>=Direct Charge (On Defeat) <color\=#18bcf2>Ｌｖ.３</color>
+ダイレクトジュウデン(撃破時) <color\=#18bcf2>Ｌｖ.４</color>=Direct Charge (On Defeat) <color\=#18bcf2>Ｌｖ.４</color>
+壁上歩行 <color\=#18bcf2>Ｌｖ.１</color>=Wall Walking <color\=#18bcf2>Ｌｖ.１</color>
+壁上歩行 <color\=#18bcf2>Ｌｖ.２</color>=Wall Walking <color\=#18bcf2>Ｌｖ.２</color>
+壁上歩行 <color\=#18bcf2>Ｌｖ.３</color>=Wall Walking <color\=#18bcf2>Ｌｖ.３</color>
+壁上歩行 <color\=#18bcf2>Ｌｖ.４</color>=Wall Walking <color\=#18bcf2>Ｌｖ.４</color>
+ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.１</color>=Warp Speed Up (Dash Gauge 0) <color\=#18bcf2>Ｌｖ.１</color>
+ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.２</color>=Warp Speed Up (Dash Gauge 0) <color\=#18bcf2>Ｌｖ.２</color>
+ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.３</color>=Warp Speed Up (Dash Gauge 0) <color\=#18bcf2>Ｌｖ.３</color>
+ワープ速度上昇（ダッシュゲージ０） <color\=#18bcf2>Ｌｖ.４</color>=Warp Speed Up (Dash Gauge 0) <color\=#18bcf2>Ｌｖ.４</color>
+ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.１</color>=Warp Point Cooldown Down (At 100%) <color\=#18bcf2>Ｌｖ.１</color>
+ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.２</color>=Warp Point Cooldown Down (At 100%) <color\=#18bcf2>Ｌｖ.２</color>
+ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.３</color>=Warp Point Cooldown Down (At 100%) <color\=#18bcf2>Ｌｖ.３</color>
+ワープポイント再使用時間減少（１００％時） <color\=#18bcf2>Ｌｖ.４</color>=Warp Point Cooldown Down (At 100%) <color\=#18bcf2>Ｌｖ.４</color>
+ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.１</color>=Warp Activation Time Down <color\=#18bcf2>Ｌｖ.１</color>
+ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.２</color>=Warp Activation Time Down <color\=#18bcf2>Ｌｖ.２</color>
+ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.３</color>=Warp Activation Time Down <color\=#18bcf2>Ｌｖ.３</color>
+ワープ起動時間短縮 <color\=#18bcf2>Ｌｖ.４</color>=Warp Activation Time Down <color\=#18bcf2>Ｌｖ.４</color>
+対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.１</color>=Anti-Shutter Attack Power Up <color\=#18bcf2>Ｌｖ.１</color>
+対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.２</color>=Anti-Shutter Attack Power Up <color\=#18bcf2>Ｌｖ.２</color>
+対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.３</color>=Anti-Shutter Attack Power Up <color\=#18bcf2>Ｌｖ.３</color>
+対シャッター攻撃力強化 <color\=#18bcf2>Ｌｖ.４</color>=Anti-Shutter Attack Power Up <color\=#18bcf2>Ｌｖ.４</color>
+変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.１</color>=Transformation Stick Refill (Human Start/Chance) <color\=#18bcf2>Ｌｖ.１</color>
+変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.２</color>=Transformation Stick Refill (Human Start/Chance) <color\=#18bcf2>Ｌｖ.２</color>
+変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.３</color>=Transformation Stick Refill (Human Start/Chance) <color\=#18bcf2>Ｌｖ.３</color>
+変身ステッキ補充（ヒト開始時/確率） <color\=#18bcf2>Ｌｖ.４</color>=Transformation Stick Refill (Human Start/Chance) <color\=#18bcf2>Ｌｖ.４</color>
+アイテム効果全体化 <color\=#18bcf2>Ｌｖ.１</color>=Item Effect Shared with Team <color\=#18bcf2>Ｌｖ.１</color>
+アイテム効果全体化 <color\=#18bcf2>Ｌｖ.２</color>=Item Effect Shared with Team <color\=#18bcf2>Ｌｖ.２</color>
+アイテム効果全体化 <color\=#18bcf2>Ｌｖ.３</color>=Item Effect Shared with Team <color\=#18bcf2>Ｌｖ.３</color>
+アイテム効果全体化 <color\=#18bcf2>Ｌｖ.４</color>=Item Effect Shared with Team <color\=#18bcf2>Ｌｖ.４</color>
+プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.１</color>=Nameplate Hidden (Dash Gauge Held Full) <color\=#18bcf2>Ｌｖ.１</color>
+プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.２</color>=Nameplate Hidden (Dash Gauge Held Full) <color\=#18bcf2>Ｌｖ.２</color>
+プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.３</color>=Nameplate Hidden (Dash Gauge Held Full) <color\=#18bcf2>Ｌｖ.３</color>
+プレート非表示(ダッシュゲージ満タン保持) <color\=#18bcf2>Ｌｖ.４</color>=Nameplate Hidden (Dash Gauge Held Full) <color\=#18bcf2>Ｌｖ.４</color>
+プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.１</color>=Nameplate Hidden (Dash Gauge Reaches Full) <color\=#18bcf2>Ｌｖ.１</color>
+プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.２</color>=Nameplate Hidden (Dash Gauge Reaches Full) <color\=#18bcf2>Ｌｖ.２</color>
+プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.３</color>=Nameplate Hidden (Dash Gauge Reaches Full) <color\=#18bcf2>Ｌｖ.３</color>
+プレート非表示(ダッシュゲージ満タン到達時) <color\=#18bcf2>Ｌｖ.４</color>=Nameplate Hidden (Dash Gauge Reaches Full) <color\=#18bcf2>Ｌｖ.４</color>
+プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.１</color>=Nameplate Hidden (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.１</color>
+プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.２</color>=Nameplate Hidden (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.２</color>
+プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.３</color>=Nameplate Hidden (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.３</color>
+プレート非表示(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.４</color>=Nameplate Hidden (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.４</color>
+ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.１</color>=Stealth (Warp Waiting) <color\=#18bcf2>Ｌｖ.１</color>
+ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.２</color>=Stealth (Warp Waiting) <color\=#18bcf2>Ｌｖ.２</color>
+ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.３</color>=Stealth (Warp Waiting) <color\=#18bcf2>Ｌｖ.３</color>
+ステルス（ワープ待ち） <color\=#18bcf2>Ｌｖ.４</color>=Stealth (Warp Waiting) <color\=#18bcf2>Ｌｖ.４</color>
+おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.１</color>=Stealth Extension (On Revival) <color\=#18bcf2>Ｌｖ.１</color>
+おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.２</color>=Stealth Extension (On Revival) <color\=#18bcf2>Ｌｖ.２</color>
+おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.３</color>=Stealth Extension (On Revival) <color\=#18bcf2>Ｌｖ.３</color>
+おんみつ時間延長（復活時） <color\=#18bcf2>Ｌｖ.４</color>=Stealth Extension (On Revival) <color\=#18bcf2>Ｌｖ.４</color>
+おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.１</color>=Stealth (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.１</color>
+おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.２</color>=Stealth (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.２</color>
+おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.３</color>=Stealth (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.３</color>
+おんみつ(ダッシュゲージ一定以上) <color\=#18bcf2>Ｌｖ.４</color>=Stealth (Dash Gauge Above Threshold) <color\=#18bcf2>Ｌｖ.４</color>
+重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity Up (Holding Action) <color\=#18bcf2>Ｌｖ.１</color>
+重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity Up (Holding Action) <color\=#18bcf2>Ｌｖ.２</color>
+重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity Up (Holding Action) <color\=#18bcf2>Ｌｖ.３</color>
+重力増加（アクションボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity Up (Holding Action) <color\=#18bcf2>Ｌｖ.４</color>
+重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity Up (Holding Jump) <color\=#18bcf2>Ｌｖ.１</color>
+重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity Up (Holding Jump) <color\=#18bcf2>Ｌｖ.２</color>
+重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity Up (Holding Jump) <color\=#18bcf2>Ｌｖ.３</color>
+重力増加（ジャンプボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity Up (Holding Jump) <color\=#18bcf2>Ｌｖ.４</color>
+重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity Up (Holding Slide) <color\=#18bcf2>Ｌｖ.１</color>
+重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity Up (Holding Slide) <color\=#18bcf2>Ｌｖ.２</color>
+重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity Up (Holding Slide) <color\=#18bcf2>Ｌｖ.３</color>
+重力上昇（スライディングボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity Up (Holding Slide) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (Max Per Role Change) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (Max Per Role Change) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (Max Per Role Change) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（ＲＣ毎上限） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (Max Per Role Change) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (Match Start) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (Match Start) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (Match Start) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（ゲーム開始時） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (Match Start) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (1pt/sec) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (1pt/sec) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (1pt/sec) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（秒間１ｐｔ） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (1pt/sec) <color\=#18bcf2>Ｌｖ.４</color>
+重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity Down (While Dashing) <color\=#18bcf2>Ｌｖ.１</color>
+重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity Down (While Dashing) <color\=#18bcf2>Ｌｖ.２</color>
+重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity Down (While Dashing) <color\=#18bcf2>Ｌｖ.３</color>
+重力減少（ダッシュ中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity Down (While Dashing) <color\=#18bcf2>Ｌｖ.４</color>
+重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.１</color>=Gravity Up (Holding Dash) <color\=#18bcf2>Ｌｖ.１</color>
+重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.２</color>=Gravity Up (Holding Dash) <color\=#18bcf2>Ｌｖ.２</color>
+重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.３</color>=Gravity Up (Holding Dash) <color\=#18bcf2>Ｌｖ.３</color>
+重力増加（ダッシュボタン中） <color\=#18bcf2>Ｌｖ.４</color>=Gravity Up (Holding Dash) <color\=#18bcf2>Ｌｖ.４</color>
+AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.１</color>=AP Reset to 0 (Min Per Role Change) <color\=#18bcf2>Ｌｖ.１</color>
+AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.２</color>=AP Reset to 0 (Min Per Role Change) <color\=#18bcf2>Ｌｖ.２</color>
+AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.３</color>=AP Reset to 0 (Min Per Role Change) <color\=#18bcf2>Ｌｖ.３</color>
+AP0リセット（ＲＣ毎下限） <color\=#18bcf2>Ｌｖ.４</color>=AP Reset to 0 (Min Per Role Change) <color\=#18bcf2>Ｌｖ.４</color>
+AP半減（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP Halved (When Killed) <color\=#18bcf2>Ｌｖ.１</color>
+AP半減（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP Halved (When Killed) <color\=#18bcf2>Ｌｖ.２</color>
+AP半減（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP Halved (When Killed) <color\=#18bcf2>Ｌｖ.３</color>
+AP半減（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP Halved (When Killed) <color\=#18bcf2>Ｌｖ.４</color>
+AP減少（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP Down (When Killed) <color\=#18bcf2>Ｌｖ.１</color>
+AP減少（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP Down (When Killed) <color\=#18bcf2>Ｌｖ.２</color>
+AP減少（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP Down (When Killed) <color\=#18bcf2>Ｌｖ.３</color>
+AP減少（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP Down (When Killed) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（被キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (When Killed) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（被キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (When Killed) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（被キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (When Killed) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（被キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (When Killed) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（キル時） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (On Kill) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（キル時） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (On Kill) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（キル時） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (On Kill) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（キル時） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (On Kill) <color\=#18bcf2>Ｌｖ.４</color>
+スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Skill Gauge Recovery Amount Up <color\=#18bcf2>Ｌｖ.１</color>
+スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Skill Gauge Recovery Amount Up <color\=#18bcf2>Ｌｖ.２</color>
+スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Skill Gauge Recovery Amount Up <color\=#18bcf2>Ｌｖ.３</color>
+スキルゲージ回復量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Skill Gauge Recovery Amount Up <color\=#18bcf2>Ｌｖ.４</color>
+ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.１</color>=Dash Gauge Consumption Up (Gairai Miroku Signature) <color\=#18bcf2>Ｌｖ.１</color>
+ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.２</color>=Dash Gauge Consumption Up (Gairai Miroku Signature) <color\=#18bcf2>Ｌｖ.２</color>
+ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.３</color>=Dash Gauge Consumption Up (Gairai Miroku Signature) <color\=#18bcf2>Ｌｖ.３</color>
+ダッシュゲージ消費量上昇（骸雷ミロク固有） <color\=#18bcf2>Ｌｖ.４</color>=Dash Gauge Consumption Up (Gairai Miroku Signature) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (Chinon Only) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (Chinon Only) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (Chinon Only) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（チノン専用） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (Chinon Only) <color\=#18bcf2>Ｌｖ.４</color>
+APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.１</color>=AP Reset (Match Start) <color\=#18bcf2>Ｌｖ.１</color>
+APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.２</color>=AP Reset (Match Start) <color\=#18bcf2>Ｌｖ.２</color>
+APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.３</color>=AP Reset (Match Start) <color\=#18bcf2>Ｌｖ.３</color>
+APリセット（ゲーム開始時） <color\=#18bcf2>Ｌｖ.４</color>=AP Reset (Match Start) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（復活時） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (On Revival) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（復活時） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (On Revival) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（復活時） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (On Revival) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（復活時） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (On Revival) <color\=#18bcf2>Ｌｖ.４</color>
+マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.１</color>=Malariya Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.１</color>
+マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.２</color>=Malariya Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.２</color>
+マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.３</color>=Malariya Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.３</color>
+マラリア固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.４</color>=Malariya Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.４</color>
+チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamo Movement Speed Up (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.１</color>
+チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamo Movement Speed Up (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.２</color>
+チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamo Movement Speed Up (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.３</color>
+チアモ移動速度上昇(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamo Movement Speed Up (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.４</color>
+チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamo (Oni) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.１</color>
+チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamo (Oni) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.２</color>
+チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamo (Oni) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.３</color>
+チアモオニAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamo (Oni) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.４</color>
+チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.１</color>=Chiamo (Human) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.１</color>
+チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.２</color>=Chiamo (Human) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.２</color>
+チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.３</color>=Chiamo (Human) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.３</color>
+チアモヒトAP回復速度(最愛チアモ固有/仮) <color\=#18bcf2>Ｌｖ.４</color>=Chiamo (Human) AP Recovery Speed (Saiai Chiamo Signature/Tentative) <color\=#18bcf2>Ｌｖ.４</color>
+移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.１</color>=Movement Speed Up (Kureha Signature) <color\=#18bcf2>Ｌｖ.１</color>
+移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.２</color>=Movement Speed Up (Kureha Signature) <color\=#18bcf2>Ｌｖ.２</color>
+移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.３</color>=Movement Speed Up (Kureha Signature) <color\=#18bcf2>Ｌｖ.３</color>
+移動速度上昇 (紅刃固有) <color\=#18bcf2>Ｌｖ.４</color>=Movement Speed Up (Kureha Signature) <color\=#18bcf2>Ｌｖ.４</color>
+マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Malariya Signature: Key Power Gain Up <color\=#18bcf2>Ｌｖ.１</color>
+マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Malariya Signature: Key Power Gain Up <color\=#18bcf2>Ｌｖ.２</color>
+マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Malariya Signature: Key Power Gain Up <color\=#18bcf2>Ｌｖ.３</color>
+マラリア固有 キーパワー獲得量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Malariya Signature: Key Power Gain Up <color\=#18bcf2>Ｌｖ.４</color>
+マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Malariya Signature: Jump/Slide Movement Speed Up <color\=#18bcf2>Ｌｖ.１</color>
+マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Malariya Signature: Jump/Slide Movement Speed Up <color\=#18bcf2>Ｌｖ.２</color>
+マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Malariya Signature: Jump/Slide Movement Speed Up <color\=#18bcf2>Ｌｖ.３</color>
+マラリア固有 J・S移動速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Malariya Signature: Jump/Slide Movement Speed Up <color\=#18bcf2>Ｌｖ.４</color>
+マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.１</color>=Malariya Signature: Nameplate Hide <color\=#18bcf2>Ｌｖ.１</color>
+マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.２</color>=Malariya Signature: Nameplate Hide <color\=#18bcf2>Ｌｖ.２</color>
+マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.３</color>=Malariya Signature: Nameplate Hide <color\=#18bcf2>Ｌｖ.３</color>
+マラリア固有 ネームプレート隠し <color\=#18bcf2>Ｌｖ.４</color>=Malariya Signature: Nameplate Hide <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: AP Recovery On Item Use <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: AP Recovery On Item Use <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: AP Recovery On Item Use <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 アイテム使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: AP Recovery On Item Use <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: AP Recovery On Skill Use <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: AP Recovery On Skill Use <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: AP Recovery On Skill Use <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 スキル使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: AP Recovery On Skill Use <color\=#18bcf2>Ｌｖ.４</color>
+ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.１</color>=Jouka Signature: Dash Gauge Consumption Up <color\=#18bcf2>Ｌｖ.１</color>
+ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.２</color>=Jouka Signature: Dash Gauge Consumption Up <color\=#18bcf2>Ｌｖ.２</color>
+ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.３</color>=Jouka Signature: Dash Gauge Consumption Up <color\=#18bcf2>Ｌｖ.３</color>
+ジョウカ固有 ダッシュゲージ消費量上昇 <color\=#18bcf2>Ｌｖ.４</color>=Jouka Signature: Dash Gauge Consumption Up <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: AP Recovery On Dash <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: AP Recovery On Dash <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: AP Recovery On Dash <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 ダッシュ使用時AP回復 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: AP Recovery On Dash <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: AP Drain <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: AP Drain <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: AP Drain <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 AP消費 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: AP Drain <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 ダッシュゲージ消費量減少 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: Dash Gauge Consumption Down <color\=#18bcf2>Ｌｖ.４</color>
+クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.１</color>=Kururu Signature: Dash Speed Up <color\=#18bcf2>Ｌｖ.１</color>
+クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.２</color>=Kururu Signature: Dash Speed Up <color\=#18bcf2>Ｌｖ.２</color>
+クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.３</color>=Kururu Signature: Dash Speed Up <color\=#18bcf2>Ｌｖ.３</color>
+クルル固有 ダッシュ速度上昇 <color\=#18bcf2>Ｌｖ.４</color>=Kururu Signature: Dash Speed Up <color\=#18bcf2>Ｌｖ.４</color>
+171デメリット <color\=#18bcf2>Ｌｖ.１</color>=171 Demerit <color\=#18bcf2>Ｌｖ.１</color>
+171デメリット <color\=#18bcf2>Ｌｖ.２</color>=171 Demerit <color\=#18bcf2>Ｌｖ.２</color>
+171デメリット <color\=#18bcf2>Ｌｖ.３</color>=171 Demerit <color\=#18bcf2>Ｌｖ.３</color>
+171デメリット <color\=#18bcf2>Ｌｖ.４</color>=171 Demerit <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (Teamwork)(Self) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (Teamwork)(Self) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (Teamwork)(Self) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度上昇（協力）（自分用） <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (Teamwork)(Self) <color\=#18bcf2>Ｌｖ.４</color>
+AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.１</color>=AP Recovery (For Auto Key Power Gain/In Danger) <color\=#18bcf2>Ｌｖ.１</color>
+AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.２</color>=AP Recovery (For Auto Key Power Gain/In Danger) <color\=#18bcf2>Ｌｖ.２</color>
+AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.３</color>=AP Recovery (For Auto Key Power Gain/In Danger) <color\=#18bcf2>Ｌｖ.３</color>
+AP回復（キーパワー自動取得（危機時）用） <color\=#18bcf2>Ｌｖ.４</color>=AP Recovery (For Auto Key Power Gain/In Danger) <color\=#18bcf2>Ｌｖ.４</color>
+ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.１</color>=Charge Speed Up (Scales with Holdings) <color\=#18bcf2>Ｌｖ.１</color>
+ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.２</color>=Charge Speed Up (Scales with Holdings) <color\=#18bcf2>Ｌｖ.２</color>
+ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.３</color>=Charge Speed Up (Scales with Holdings) <color\=#18bcf2>Ｌｖ.３</color>
+ジュウデン速度速度上昇(所持量比例) <color\=#18bcf2>Ｌｖ.４</color>=Charge Speed Up (Scales with Holdings) <color\=#18bcf2>Ｌｖ.４</color>
+陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.１</color>=Current Track & Field Ace (Instance) <color\=#18bcf2>Ｌｖ.１</color>
+陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.２</color>=Current Track & Field Ace (Instance) <color\=#18bcf2>Ｌｖ.２</color>
+陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.３</color>=Current Track & Field Ace (Instance) <color\=#18bcf2>Ｌｖ.３</color>
+陸上部の現エース(実体) <color\=#18bcf2>Ｌｖ.４</color>=Current Track & Field Ace (Instance) <color\=#18bcf2>Ｌｖ.４</color>
+1022内部値消費 <color\=#18bcf2>Ｌｖ.１</color>=1022 Internal Value Drain <color\=#18bcf2>Ｌｖ.１</color>
+1022内部値消費 <color\=#18bcf2>Ｌｖ.２</color>=1022 Internal Value Drain <color\=#18bcf2>Ｌｖ.２</color>
+1022内部値消費 <color\=#18bcf2>Ｌｖ.３</color>=1022 Internal Value Drain <color\=#18bcf2>Ｌｖ.３</color>
+1022内部値消費 <color\=#18bcf2>Ｌｖ.４</color>=1022 Internal Value Drain <color\=#18bcf2>Ｌｖ.４</color>
+1022内部値全回復 <color\=#18bcf2>Ｌｖ.１</color>=1022 Internal Value Full Recovery <color\=#18bcf2>Ｌｖ.１</color>
+1022内部値全回復 <color\=#18bcf2>Ｌｖ.２</color>=1022 Internal Value Full Recovery <color\=#18bcf2>Ｌｖ.２</color>
+1022内部値全回復 <color\=#18bcf2>Ｌｖ.３</color>=1022 Internal Value Full Recovery <color\=#18bcf2>Ｌｖ.３</color>
+1022内部値全回復 <color\=#18bcf2>Ｌｖ.４</color>=1022 Internal Value Full Recovery <color\=#18bcf2>Ｌｖ.４</color>
+952内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=952 Internal Value Reset <color\=#18bcf2>Ｌｖ.１</color>
+952内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=952 Internal Value Reset <color\=#18bcf2>Ｌｖ.２</color>
+952内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=952 Internal Value Reset <color\=#18bcf2>Ｌｖ.３</color>
+952内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=952 Internal Value Reset <color\=#18bcf2>Ｌｖ.４</color>
+952内部値回復 <color\=#18bcf2>Ｌｖ.１</color>=952 Internal Value Recovery <color\=#18bcf2>Ｌｖ.１</color>
+952内部値回復 <color\=#18bcf2>Ｌｖ.２</color>=952 Internal Value Recovery <color\=#18bcf2>Ｌｖ.２</color>
+952内部値回復 <color\=#18bcf2>Ｌｖ.３</color>=952 Internal Value Recovery <color\=#18bcf2>Ｌｖ.３</color>
+952内部値回復 <color\=#18bcf2>Ｌｖ.４</color>=952 Internal Value Recovery <color\=#18bcf2>Ｌｖ.４</color>
+475内部値増加 <color\=#18bcf2>Ｌｖ.１</color>=475 Internal Value Increase <color\=#18bcf2>Ｌｖ.１</color>
+475内部値増加 <color\=#18bcf2>Ｌｖ.２</color>=475 Internal Value Increase <color\=#18bcf2>Ｌｖ.２</color>
+475内部値増加 <color\=#18bcf2>Ｌｖ.３</color>=475 Internal Value Increase <color\=#18bcf2>Ｌｖ.３</color>
+475内部値増加 <color\=#18bcf2>Ｌｖ.４</color>=475 Internal Value Increase <color\=#18bcf2>Ｌｖ.４</color>
+206デメリット <color\=#18bcf2>Ｌｖ.１</color>=206 Demerit <color\=#18bcf2>Ｌｖ.１</color>
+206デメリット <color\=#18bcf2>Ｌｖ.２</color>=206 Demerit <color\=#18bcf2>Ｌｖ.２</color>
+206デメリット <color\=#18bcf2>Ｌｖ.３</color>=206 Demerit <color\=#18bcf2>Ｌｖ.３</color>
+206デメリット <color\=#18bcf2>Ｌｖ.４</color>=206 Demerit <color\=#18bcf2>Ｌｖ.４</color>
+172デメリット <color\=#18bcf2>Ｌｖ.１</color>=172 Demerit <color\=#18bcf2>Ｌｖ.１</color>
+172デメリット <color\=#18bcf2>Ｌｖ.２</color>=172 Demerit <color\=#18bcf2>Ｌｖ.２</color>
+172デメリット <color\=#18bcf2>Ｌｖ.３</color>=172 Demerit <color\=#18bcf2>Ｌｖ.３</color>
+172デメリット <color\=#18bcf2>Ｌｖ.４</color>=172 Demerit <color\=#18bcf2>Ｌｖ.４</color>
+1023内部値回復 <color\=#18bcf2>Ｌｖ.１</color>=1023 Internal Value Recovery <color\=#18bcf2>Ｌｖ.１</color>
+1023内部値回復 <color\=#18bcf2>Ｌｖ.２</color>=1023 Internal Value Recovery <color\=#18bcf2>Ｌｖ.２</color>
+1023内部値回復 <color\=#18bcf2>Ｌｖ.３</color>=1023 Internal Value Recovery <color\=#18bcf2>Ｌｖ.３</color>
+1023内部値回復 <color\=#18bcf2>Ｌｖ.４</color>=1023 Internal Value Recovery <color\=#18bcf2>Ｌｖ.４</color>
+1023内部値リセット <color\=#18bcf2>Ｌｖ.１</color>=1023 Internal Value Reset <color\=#18bcf2>Ｌｖ.１</color>
+1023内部値リセット <color\=#18bcf2>Ｌｖ.２</color>=1023 Internal Value Reset <color\=#18bcf2>Ｌｖ.２</color>
+1023内部値リセット <color\=#18bcf2>Ｌｖ.３</color>=1023 Internal Value Reset <color\=#18bcf2>Ｌｖ.３</color>
+1023内部値リセット <color\=#18bcf2>Ｌｖ.４</color>=1023 Internal Value Reset <color\=#18bcf2>Ｌｖ.４</color>

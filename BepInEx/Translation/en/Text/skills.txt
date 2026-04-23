@@ -1,135 +1,135 @@
-<color\=#dc3096>スライディング</color>をして\n<color\=#FDB933>キーパワー</color>まで移動しよう=<color\=#dc3096>sliding</color>With\nMove to the <color\=#FDB933>Key Power</color>!
-まずは基本的な動きかたに慣れろでちゅ！\n<color\=#dc9600>\r黄色い三角▲</color>あ<color\=#dc3096>赤色</color><color\=#139dff>青色</color><color\=#00be00>緑</color>\n<color\=#dc9600>\r黄色い三角▲</color>あ<color\=#dc3096>赤色</color><color\=#139dff>青色</color><color\=#00be00>緑</color>=First of all, get used to the basic movement!\n<color\=#dc9600>\rYellow triangle ▲</color>a<color\=#dc3096>red</color><color\=#139dff>Blue</color><color\=#00be00>green</color>\n<color\=#dc9600>\rYellow triangle ▲</color>a<color\=#dc3096>red</color><color\=#139dff>Blue</color><color\=#00be00>green</color>
-ダッシュボタンは\n<color\=#dc3096>後ろ側</color>にあるよ！=The dash button is\n<color\=#dc3096>at the back</color>!
-ハイジャンプ <color\=#dc3096>Ｌｖ.１</color>=High jump <color\=#dc3096>Ｌｖ.１</color>
-ハイジャンプ <color\=#dc3096>Ｌｖ.２</color>=High jump <color\=#dc3096>Ｌｖ.２</color>
-ハイジャンプ <color\=#dc3096>Ｌｖ.３</color>=High jump <color\=#dc3096>Ｌｖ.３</color>
-ハイジャンプ <color\=#dc3096>Ｌｖ.４</color>=High jump <color\=#dc3096>Ｌｖ.４</color>
-アムールオーバードーズ <color\=#dc3096>Ｌｖ.１</color>=Amur Overdose <color\=#dc3096>Ｌｖ.１</color>
-アムールオーバードーズ <color\=#dc3096>Ｌｖ.２</color>=Amur Overdose <color\=#dc3096>Ｌｖ.２</color>
-アムールオーバードーズ <color\=#dc3096>Ｌｖ.３</color>=Amur Overdose <color\=#dc3096>Ｌｖ.３</color>
-アムールオーバードーズ <color\=#dc3096>Ｌｖ.４</color>=Amur Overdose <color\=#dc3096>Ｌｖ.４</color>
-天翅の風 <color\=#dc3096>Ｌｖ.１</color>=Wind of the wing <color\=#dc3096>Ｌｖ.１</color>
-天翅の風 <color\=#dc3096>Ｌｖ.２</color>=Wind of the wing <color\=#dc3096>Ｌｖ.２</color>
-天翅の風 <color\=#dc3096>Ｌｖ.３</color>=Wind of the wing <color\=#dc3096>Ｌｖ.３</color>
-天翅の風 <color\=#dc3096>Ｌｖ.４</color>=Wind of the wing <color\=#dc3096>Ｌｖ.４</color>
-怨讐呪殺参り <color\=#dc3096>Ｌｖ.１</color>=Visit the grudge curse <color\=#dc3096>Ｌｖ.１</color>
-怨讐呪殺参り <color\=#dc3096>Ｌｖ.２</color>=Visit the grudge curse <color\=#dc3096>Ｌｖ.２</color>
-怨讐呪殺参り <color\=#dc3096>Ｌｖ.３</color>=Visit the grudge curse <color\=#dc3096>Ｌｖ.３</color>
-怨讐呪殺参り <color\=#dc3096>Ｌｖ.４</color>=Visit the grudge curse <color\=#dc3096>Ｌｖ.４</color>
-紅牙一閃 <color\=#dc3096>Ｌｖ.１</color>=Red Fang Issen <color\=#dc3096>Ｌｖ.１</color>
-紅牙一閃 <color\=#dc3096>Ｌｖ.２</color>=Red Fang Issen <color\=#dc3096>Ｌｖ.２</color>
-紅牙一閃 <color\=#dc3096>Ｌｖ.３</color>=Red Fang Issen <color\=#dc3096>Ｌｖ.３</color>
-紅牙一閃 <color\=#dc3096>Ｌｖ.４</color>=Red Fang Issen <color\=#dc3096>Ｌｖ.４</color>
-呪霊ノ展 <color\=#dc3096>Ｌｖ.１</color>=Spell of spells <color\=#dc3096>Ｌｖ.１</color>
-呪霊ノ展 <color\=#dc3096>Ｌｖ.２</color>=Spell of spells <color\=#dc3096>Ｌｖ.２</color>
-呪霊ノ展 <color\=#dc3096>Ｌｖ.３</color>=Spell of spells <color\=#dc3096>Ｌｖ.３</color>
-呪霊ノ展 <color\=#dc3096>Ｌｖ.４</color>=Spell of spells <color\=#dc3096>Ｌｖ.４</color>
-パインボム <color\=#dc3096>Ｌｖ.１</color>=Pine bomb <color\=#dc3096>Ｌｖ.１</color>
-パインボム <color\=#dc3096>Ｌｖ.２</color>=Pine bomb <color\=#dc3096>Ｌｖ.２</color>
-パインボム <color\=#dc3096>Ｌｖ.３</color>=Pine bomb <color\=#dc3096>Ｌｖ.３</color>
-パインボム <color\=#dc3096>Ｌｖ.４</color>=Pine bomb <color\=#dc3096>Ｌｖ.４</color>
-勅令 <color\=#dc3096>Ｌｖ.１</color>=Edict <color\=#dc3096>Ｌｖ.１</color>
-勅令 <color\=#dc3096>Ｌｖ.２</color>=Edict <color\=#dc3096>Ｌｖ.２</color>
-勅令 <color\=#dc3096>Ｌｖ.３</color>=Edict <color\=#dc3096>Ｌｖ.３</color>
-勅令 <color\=#dc3096>Ｌｖ.４</color>=Edict <color\=#dc3096>Ｌｖ.４</color>
-怨気 <color\=#dc3096>Ｌｖ.１</color>=Grudge <color\=#dc3096>Ｌｖ.１</color>
-怨気 <color\=#dc3096>Ｌｖ.２</color>=Grudge <color\=#dc3096>Ｌｖ.２</color>
-怨気 <color\=#dc3096>Ｌｖ.３</color>=Grudge <color\=#dc3096>Ｌｖ.３</color>
-怨気 <color\=#dc3096>Ｌｖ.４</color>=Grudge <color\=#dc3096>Ｌｖ.４</color>
-どきどき陰陽 <color\=#dc3096>Ｌｖ.１</color>=Heart-pounding Yin-Yang <color\=#dc3096>Ｌｖ.１</color>
-どきどき陰陽 <color\=#dc3096>Ｌｖ.２</color>=Heart-pounding Yin-Yang <color\=#dc3096>Ｌｖ.２</color>
-どきどき陰陽 <color\=#dc3096>Ｌｖ.３</color>=Heart-pounding Yin-Yang <color\=#dc3096>Ｌｖ.３</color>
-どきどき陰陽 <color\=#dc3096>Ｌｖ.４</color>=Heart-pounding Yin-Yang <color\=#dc3096>Ｌｖ.４</color>
-彼岸斬 <color\=#dc3096>Ｌｖ.１</color>=Higan Zan <color\=#dc3096>Ｌｖ.１</color>
-彼岸斬 <color\=#dc3096>Ｌｖ.２</color>=Higan Zan <color\=#dc3096>Ｌｖ.２</color>
-彼岸斬 <color\=#dc3096>Ｌｖ.３</color>=Higan Zan <color\=#dc3096>Ｌｖ.３</color>
-彼岸斬 <color\=#dc3096>Ｌｖ.４</color>=Higan Zan <color\=#dc3096>Ｌｖ.４</color>
-速度上昇 <color\=#dc3096>Ｌｖ.１</color>=Rising speed <color\=#dc3096>Ｌｖ.１</color>
-速度上昇 <color\=#dc3096>Ｌｖ.２</color>=Rising speed <color\=#dc3096>Ｌｖ.２</color>
-速度上昇 <color\=#dc3096>Ｌｖ.３</color>=Rising speed <color\=#dc3096>Ｌｖ.３</color>
-速度上昇 <color\=#dc3096>Ｌｖ.４</color>=Rising speed <color\=#dc3096>Ｌｖ.４</color>
-輪廻の雷 <color\=#dc3096>Ｌｖ.１</color>=Thunder of Reincarnation <color\=#dc3096>Ｌｖ.１</color>
-輪廻の雷 <color\=#dc3096>Ｌｖ.２</color>=Thunder of Reincarnation <color\=#dc3096>Ｌｖ.２</color>
-輪廻の雷 <color\=#dc3096>Ｌｖ.３</color>=Thunder of Reincarnation <color\=#dc3096>Ｌｖ.３</color>
-輪廻の雷 <color\=#dc3096>Ｌｖ.４</color>=Thunder of Reincarnation <color\=#dc3096>Ｌｖ.４</color>
+<color\=#dc3096>スライディング</color>をして\n<color\=#FDB933>キーパワー</color>まで移動しよう=<color\=#dc3096>Slide</color> to\nreach the <color\=#FDB933>Key Power</color>!
+まずは基本的な動きかたに慣れろでちゅ！\n<color\=#dc9600>\r黄色い三角▲</color>あ<color\=#dc3096>赤色</color><color\=#139dff>青色</color><color\=#00be00>緑</color>\n<color\=#dc9600>\r黄色い三角▲</color>あ<color\=#dc3096>赤色</color><color\=#139dff>青色</color><color\=#00be00>緑</color>=First, get used to the basic movement, wittle one!\n<color\=#dc9600>\rYellow triangle ▲</color>a<color\=#dc3096>Red</color><color\=#139dff>Blue</color><color\=#00be00>Green</color>\n<color\=#dc9600>\rYellow triangle ▲</color>a<color\=#dc3096>Red</color><color\=#139dff>Blue</color><color\=#00be00>Green</color>
+ダッシュボタンは\n<color\=#dc3096>後ろ側</color>にあるよ！=The Dash button is\non the <color\=#dc3096>back side</color>!
+ハイジャンプ <color\=#dc3096>Ｌｖ.１</color>=High Jump <color\=#dc3096>Ｌｖ.１</color>
+ハイジャンプ <color\=#dc3096>Ｌｖ.２</color>=High Jump <color\=#dc3096>Ｌｖ.２</color>
+ハイジャンプ <color\=#dc3096>Ｌｖ.３</color>=High Jump <color\=#dc3096>Ｌｖ.３</color>
+ハイジャンプ <color\=#dc3096>Ｌｖ.４</color>=High Jump <color\=#dc3096>Ｌｖ.４</color>
+アムールオーバードーズ <color\=#dc3096>Ｌｖ.１</color>=Amour Overdose <color\=#dc3096>Ｌｖ.１</color>
+アムールオーバードーズ <color\=#dc3096>Ｌｖ.２</color>=Amour Overdose <color\=#dc3096>Ｌｖ.２</color>
+アムールオーバードーズ <color\=#dc3096>Ｌｖ.３</color>=Amour Overdose <color\=#dc3096>Ｌｖ.３</color>
+アムールオーバードーズ <color\=#dc3096>Ｌｖ.４</color>=Amour Overdose <color\=#dc3096>Ｌｖ.４</color>
+天翅の風 <color\=#dc3096>Ｌｖ.１</color>=Wind of Heavenly Wings <color\=#dc3096>Ｌｖ.１</color>
+天翅の風 <color\=#dc3096>Ｌｖ.２</color>=Wind of Heavenly Wings <color\=#dc3096>Ｌｖ.２</color>
+天翅の風 <color\=#dc3096>Ｌｖ.３</color>=Wind of Heavenly Wings <color\=#dc3096>Ｌｖ.３</color>
+天翅の風 <color\=#dc3096>Ｌｖ.４</color>=Wind of Heavenly Wings <color\=#dc3096>Ｌｖ.４</color>
+怨讐呪殺参り <color\=#dc3096>Ｌｖ.１</color>=Vengeful Curse Pilgrimage <color\=#dc3096>Ｌｖ.１</color>
+怨讐呪殺参り <color\=#dc3096>Ｌｖ.２</color>=Vengeful Curse Pilgrimage <color\=#dc3096>Ｌｖ.２</color>
+怨讐呪殺参り <color\=#dc3096>Ｌｖ.３</color>=Vengeful Curse Pilgrimage <color\=#dc3096>Ｌｖ.３</color>
+怨讐呪殺参り <color\=#dc3096>Ｌｖ.４</color>=Vengeful Curse Pilgrimage <color\=#dc3096>Ｌｖ.４</color>
+紅牙一閃 <color\=#dc3096>Ｌｖ.１</color>=Crimson Fang Flash <color\=#dc3096>Ｌｖ.１</color>
+紅牙一閃 <color\=#dc3096>Ｌｖ.２</color>=Crimson Fang Flash <color\=#dc3096>Ｌｖ.２</color>
+紅牙一閃 <color\=#dc3096>Ｌｖ.３</color>=Crimson Fang Flash <color\=#dc3096>Ｌｖ.３</color>
+紅牙一閃 <color\=#dc3096>Ｌｖ.４</color>=Crimson Fang Flash <color\=#dc3096>Ｌｖ.４</color>
+呪霊ノ展 <color\=#dc3096>Ｌｖ.１</color>=Spread of Curse Spirits <color\=#dc3096>Ｌｖ.１</color>
+呪霊ノ展 <color\=#dc3096>Ｌｖ.２</color>=Spread of Curse Spirits <color\=#dc3096>Ｌｖ.２</color>
+呪霊ノ展 <color\=#dc3096>Ｌｖ.３</color>=Spread of Curse Spirits <color\=#dc3096>Ｌｖ.３</color>
+呪霊ノ展 <color\=#dc3096>Ｌｖ.４</color>=Spread of Curse Spirits <color\=#dc3096>Ｌｖ.４</color>
+パインボム <color\=#dc3096>Ｌｖ.１</color>=Pine Bomb <color\=#dc3096>Ｌｖ.１</color>
+パインボム <color\=#dc3096>Ｌｖ.２</color>=Pine Bomb <color\=#dc3096>Ｌｖ.２</color>
+パインボム <color\=#dc3096>Ｌｖ.３</color>=Pine Bomb <color\=#dc3096>Ｌｖ.３</color>
+パインボム <color\=#dc3096>Ｌｖ.４</color>=Pine Bomb <color\=#dc3096>Ｌｖ.４</color>
+勅令 <color\=#dc3096>Ｌｖ.１</color>=Imperial Decree <color\=#dc3096>Ｌｖ.１</color>
+勅令 <color\=#dc3096>Ｌｖ.２</color>=Imperial Decree <color\=#dc3096>Ｌｖ.２</color>
+勅令 <color\=#dc3096>Ｌｖ.３</color>=Imperial Decree <color\=#dc3096>Ｌｖ.３</color>
+勅令 <color\=#dc3096>Ｌｖ.４</color>=Imperial Decree <color\=#dc3096>Ｌｖ.４</color>
+怨気 <color\=#dc3096>Ｌｖ.１</color>=Rancor <color\=#dc3096>Ｌｖ.１</color>
+怨気 <color\=#dc3096>Ｌｖ.２</color>=Rancor <color\=#dc3096>Ｌｖ.２</color>
+怨気 <color\=#dc3096>Ｌｖ.３</color>=Rancor <color\=#dc3096>Ｌｖ.３</color>
+怨気 <color\=#dc3096>Ｌｖ.４</color>=Rancor <color\=#dc3096>Ｌｖ.４</color>
+どきどき陰陽 <color\=#dc3096>Ｌｖ.１</color>=Heart-Pounding Yin-Yang <color\=#dc3096>Ｌｖ.１</color>
+どきどき陰陽 <color\=#dc3096>Ｌｖ.２</color>=Heart-Pounding Yin-Yang <color\=#dc3096>Ｌｖ.２</color>
+どきどき陰陽 <color\=#dc3096>Ｌｖ.３</color>=Heart-Pounding Yin-Yang <color\=#dc3096>Ｌｖ.３</color>
+どきどき陰陽 <color\=#dc3096>Ｌｖ.４</color>=Heart-Pounding Yin-Yang <color\=#dc3096>Ｌｖ.４</color>
+彼岸斬 <color\=#dc3096>Ｌｖ.１</color>=Far-Shore Slash <color\=#dc3096>Ｌｖ.１</color>
+彼岸斬 <color\=#dc3096>Ｌｖ.２</color>=Far-Shore Slash <color\=#dc3096>Ｌｖ.２</color>
+彼岸斬 <color\=#dc3096>Ｌｖ.３</color>=Far-Shore Slash <color\=#dc3096>Ｌｖ.３</color>
+彼岸斬 <color\=#dc3096>Ｌｖ.４</color>=Far-Shore Slash <color\=#dc3096>Ｌｖ.４</color>
+速度上昇 <color\=#dc3096>Ｌｖ.１</color>=Speed Up <color\=#dc3096>Ｌｖ.１</color>
+速度上昇 <color\=#dc3096>Ｌｖ.２</color>=Speed Up <color\=#dc3096>Ｌｖ.２</color>
+速度上昇 <color\=#dc3096>Ｌｖ.３</color>=Speed Up <color\=#dc3096>Ｌｖ.３</color>
+速度上昇 <color\=#dc3096>Ｌｖ.４</color>=Speed Up <color\=#dc3096>Ｌｖ.４</color>
+輪廻の雷 <color\=#dc3096>Ｌｖ.１</color>=Thunder of Samsara <color\=#dc3096>Ｌｖ.１</color>
+輪廻の雷 <color\=#dc3096>Ｌｖ.２</color>=Thunder of Samsara <color\=#dc3096>Ｌｖ.２</color>
+輪廻の雷 <color\=#dc3096>Ｌｖ.３</color>=Thunder of Samsara <color\=#dc3096>Ｌｖ.３</color>
+輪廻の雷 <color\=#dc3096>Ｌｖ.４</color>=Thunder of Samsara <color\=#dc3096>Ｌｖ.４</color>
 カモフラージュ <color\=#dc3096>Ｌｖ.１</color>=Camouflage <color\=#dc3096>Ｌｖ.１</color>
 カモフラージュ <color\=#dc3096>Ｌｖ.２</color>=Camouflage <color\=#dc3096>Ｌｖ.２</color>
 カモフラージュ <color\=#dc3096>Ｌｖ.３</color>=Camouflage <color\=#dc3096>Ｌｖ.３</color>
 カモフラージュ <color\=#dc3096>Ｌｖ.４</color>=Camouflage <color\=#dc3096>Ｌｖ.４</color>
-メインスキルチャージ <color\=#dc3096>Ｌｖ.１</color>=Main skill charge <color\=#dc3096>Ｌｖ.１</color>
-メインスキルチャージ <color\=#dc3096>Ｌｖ.２</color>=Main skill charge <color\=#dc3096>Ｌｖ.２</color>
-メインスキルチャージ <color\=#dc3096>Ｌｖ.３</color>=Main skill charge <color\=#dc3096>Ｌｖ.３</color>
-メインスキルチャージ <color\=#dc3096>Ｌｖ.４</color>=Main skill charge <color\=#dc3096>Ｌｖ.４</color>
+メインスキルチャージ <color\=#dc3096>Ｌｖ.１</color>=Main Skill Charge <color\=#dc3096>Ｌｖ.１</color>
+メインスキルチャージ <color\=#dc3096>Ｌｖ.２</color>=Main Skill Charge <color\=#dc3096>Ｌｖ.２</color>
+メインスキルチャージ <color\=#dc3096>Ｌｖ.３</color>=Main Skill Charge <color\=#dc3096>Ｌｖ.３</color>
+メインスキルチャージ <color\=#dc3096>Ｌｖ.４</color>=Main Skill Charge <color\=#dc3096>Ｌｖ.４</color>
 リターン <color\=#dc3096>Ｌｖ.１</color>=Return <color\=#dc3096>Ｌｖ.１</color>
 リターン <color\=#dc3096>Ｌｖ.２</color>=Return <color\=#dc3096>Ｌｖ.２</color>
 リターン <color\=#dc3096>Ｌｖ.３</color>=Return <color\=#dc3096>Ｌｖ.３</color>
 リターン <color\=#dc3096>Ｌｖ.４</color>=Return <color\=#dc3096>Ｌｖ.４</color>
-ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.１</color>=Dash gauge recovery up <color\=#dc3096>Ｌｖ.１</color>
-ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.２</color>=Dash gauge recovery up <color\=#dc3096>Ｌｖ.２</color>
-ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.３</color>=Dash gauge recovery up <color\=#dc3096>Ｌｖ.３</color>
-ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.４</color>=Dash gauge recovery up <color\=#dc3096>Ｌｖ.４</color>
-キラースライディング <color\=#dc3096>Ｌｖ.１</color>=Killer sliding <color\=#dc3096>Ｌｖ.１</color>
-キラースライディング <color\=#dc3096>Ｌｖ.２</color>=Killer sliding <color\=#dc3096>Ｌｖ.２</color>
-キラースライディング <color\=#dc3096>Ｌｖ.３</color>=Killer sliding <color\=#dc3096>Ｌｖ.３</color>
-キラースライディング <color\=#dc3096>Ｌｖ.４</color>=Killer sliding <color\=#dc3096>Ｌｖ.４</color>
+ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.１</color>=Dash Gauge Recovery Up <color\=#dc3096>Ｌｖ.１</color>
+ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.２</color>=Dash Gauge Recovery Up <color\=#dc3096>Ｌｖ.２</color>
+ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.３</color>=Dash Gauge Recovery Up <color\=#dc3096>Ｌｖ.３</color>
+ダッシュゲージ回復アップ <color\=#dc3096>Ｌｖ.４</color>=Dash Gauge Recovery Up <color\=#dc3096>Ｌｖ.４</color>
+キラースライディング <color\=#dc3096>Ｌｖ.１</color>=Killer Sliding <color\=#dc3096>Ｌｖ.１</color>
+キラースライディング <color\=#dc3096>Ｌｖ.２</color>=Killer Sliding <color\=#dc3096>Ｌｖ.２</color>
+キラースライディング <color\=#dc3096>Ｌｖ.３</color>=Killer Sliding <color\=#dc3096>Ｌｖ.３</color>
+キラースライディング <color\=#dc3096>Ｌｖ.４</color>=Killer Sliding <color\=#dc3096>Ｌｖ.４</color>
 サクラモチ <color\=#dc3096>Ｌｖ.１</color>=Sakura Mochi <color\=#dc3096>Ｌｖ.１</color>
 サクラモチ <color\=#dc3096>Ｌｖ.２</color>=Sakura Mochi <color\=#dc3096>Ｌｖ.２</color>
 サクラモチ <color\=#dc3096>Ｌｖ.３</color>=Sakura Mochi <color\=#dc3096>Ｌｖ.３</color>
 サクラモチ <color\=#dc3096>Ｌｖ.４</color>=Sakura Mochi <color\=#dc3096>Ｌｖ.４</color>
-ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.１</color>=Dash gauge charge <color\=#dc3096>Ｌｖ.１</color>
-ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.２</color>=Dash gauge charge <color\=#dc3096>Ｌｖ.２</color>
-ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.３</color>=Dash gauge charge <color\=#dc3096>Ｌｖ.３</color>
-ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.４</color>=Dash gauge charge <color\=#dc3096>Ｌｖ.４</color>
-ステップイン <color\=#dc3096>Ｌｖ.１</color>=Step-in <color\=#dc3096>Ｌｖ.１</color>
-ステップイン <color\=#dc3096>Ｌｖ.２</color>=Step-in <color\=#dc3096>Ｌｖ.２</color>
-ステップイン <color\=#dc3096>Ｌｖ.３</color>=Step-in <color\=#dc3096>Ｌｖ.３</color>
-ステップイン <color\=#dc3096>Ｌｖ.４</color>=Step-in <color\=#dc3096>Ｌｖ.４</color>
-ズームアウト <color\=#dc3096>Ｌｖ.１</color>=Zoom out <color\=#dc3096>Ｌｖ.１</color>
-ズームアウト <color\=#dc3096>Ｌｖ.２</color>=Zoom out <color\=#dc3096>Ｌｖ.２</color>
-ズームアウト <color\=#dc3096>Ｌｖ.３</color>=Zoom out <color\=#dc3096>Ｌｖ.３</color>
-ズームアウト <color\=#dc3096>Ｌｖ.４</color>=Zoom out <color\=#dc3096>Ｌｖ.４</color>
-ジャンボスイカ <color\=#dc3096>Ｌｖ.１</color>=Jumbo Watermelon<color\=#dc3096>Ｌｖ.１</color>
+ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.１</color>=Dash Gauge Charge <color\=#dc3096>Ｌｖ.１</color>
+ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.２</color>=Dash Gauge Charge <color\=#dc3096>Ｌｖ.２</color>
+ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.３</color>=Dash Gauge Charge <color\=#dc3096>Ｌｖ.３</color>
+ダッシュゲージチャージ <color\=#dc3096>Ｌｖ.４</color>=Dash Gauge Charge <color\=#dc3096>Ｌｖ.４</color>
+ステップイン <color\=#dc3096>Ｌｖ.１</color>=Step-In <color\=#dc3096>Ｌｖ.１</color>
+ステップイン <color\=#dc3096>Ｌｖ.２</color>=Step-In <color\=#dc3096>Ｌｖ.２</color>
+ステップイン <color\=#dc3096>Ｌｖ.３</color>=Step-In <color\=#dc3096>Ｌｖ.３</color>
+ステップイン <color\=#dc3096>Ｌｖ.４</color>=Step-In <color\=#dc3096>Ｌｖ.４</color>
+ズームアウト <color\=#dc3096>Ｌｖ.１</color>=Zoom Out <color\=#dc3096>Ｌｖ.１</color>
+ズームアウト <color\=#dc3096>Ｌｖ.２</color>=Zoom Out <color\=#dc3096>Ｌｖ.２</color>
+ズームアウト <color\=#dc3096>Ｌｖ.３</color>=Zoom Out <color\=#dc3096>Ｌｖ.３</color>
+ズームアウト <color\=#dc3096>Ｌｖ.４</color>=Zoom Out <color\=#dc3096>Ｌｖ.４</color>
+ジャンボスイカ <color\=#dc3096>Ｌｖ.１</color>=Jumbo Watermelon <color\=#dc3096>Ｌｖ.１</color>
 ジャンボスイカ <color\=#dc3096>Ｌｖ.２</color>=Jumbo Watermelon <color\=#dc3096>Ｌｖ.２</color>
 ジャンボスイカ <color\=#dc3096>Ｌｖ.３</color>=Jumbo Watermelon <color\=#dc3096>Ｌｖ.３</color>
 ジャンボスイカ <color\=#dc3096>Ｌｖ.４</color>=Jumbo Watermelon <color\=#dc3096>Ｌｖ.４</color>
-曼珠沙華 <color\=#dc3096>Ｌｖ.１</color>=Manjushaka <color\=#dc3096>Ｌｖ.１</color>
-曼珠沙華 <color\=#dc3096>Ｌｖ.２</color>=Manjushaka <color\=#dc3096>Ｌｖ.２</color>
-曼珠沙華 <color\=#dc3096>Ｌｖ.３</color>=Manjushaka <color\=#dc3096>Ｌｖ.３</color>
-曼珠沙華 <color\=#dc3096>Ｌｖ.４</color>=Manjushaka <color\=#dc3096>Ｌｖ.４</color>
-ドラゴンフルーツ <color\=#dc3096>Ｌｖ.１</color>=dragon fruit <color\=#dc3096>Ｌｖ.１</color>
-ドラゴンフルーツ <color\=#dc3096>Ｌｖ.２</color>=dragon fruit <color\=#dc3096>Ｌｖ.２</color>
-ドラゴンフルーツ <color\=#dc3096>Ｌｖ.３</color>=dragon fruit <color\=#dc3096>Ｌｖ.３</color>
-ドラゴンフルーツ <color\=#dc3096>Ｌｖ.４</color>=dragon fruit <color\=#dc3096>Ｌｖ.４</color>
-チーム速度上昇 <color\=#dc3096>Ｌｖ.１</color>=Team speed increase <color\=#dc3096>Ｌｖ.１</color>
-チーム速度上昇 <color\=#dc3096>Ｌｖ.２</color>=Team speed increase <color\=#dc3096>Ｌｖ.２</color>
-チーム速度上昇 <color\=#dc3096>Ｌｖ.３</color>=Team speed increase <color\=#dc3096>Ｌｖ.３</color>
-チーム速度上昇 <color\=#dc3096>Ｌｖ.４</color>=Team speed increase <color\=#dc3096>Ｌｖ.４</color>
-ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.１</color>=dash gauge dash <color\=#dc3096>Ｌｖ.１</color>
-ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.２</color>=dash gauge dash <color\=#dc3096>Ｌｖ.２</color>
-ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.３</color>=dash gauge dash <color\=#dc3096>Ｌｖ.３</color>
-ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.４</color>=dash gauge dash <color\=#dc3096>Ｌｖ.４</color>
-スローチェイス <color\=#dc3096>Ｌｖ.１</color>=slow chase <color\=#dc3096>Ｌｖ.１</color>
-スローチェイス <color\=#dc3096>Ｌｖ.２</color>=slow chase <color\=#dc3096>Ｌｖ.２</color>
-スローチェイス <color\=#dc3096>Ｌｖ.３</color>=slow chase <color\=#dc3096>Ｌｖ.３</color>
-スローチェイス <color\=#dc3096>Ｌｖ.４</color>=slow chase <color\=#dc3096>Ｌｖ.４</color>
-シェアサーチ <color\=#dc3096>Ｌｖ.１</color>=share search <color\=#dc3096>Ｌｖ.１</color>
-シェアサーチ <color\=#dc3096>Ｌｖ.２</color>=share search <color\=#dc3096>Ｌｖ.２</color>
-シェアサーチ <color\=#dc3096>Ｌｖ.３</color>=share search <color\=#dc3096>Ｌｖ.３</color>
-シェアサーチ <color\=#dc3096>Ｌｖ.４</color>=share search <color\=#dc3096>Ｌｖ.４</color>
-罪と罰 <color\=#dc3096>Ｌｖ.１</color>=crime and punishment <color\=#dc3096>Ｌｖ.１</color>
-罪と罰 <color\=#dc3096>Ｌｖ.２</color>=crime and punishment <color\=#dc3096>Ｌｖ.２</color>
-罪と罰 <color\=#dc3096>Ｌｖ.３</color>=crime and punishment <color\=#dc3096>Ｌｖ.３</color>
-罪と罰 <color\=#dc3096>Ｌｖ.４</color>=crime and punishment <color\=#dc3096>Ｌｖ.４</color>
-わくわく陰陽 <color\=#dc3096>Ｌｖ.１</color>=Exciting yin and yang <color\=#dc3096>Ｌｖ.１</color>
-わくわく陰陽 <color\=#dc3096>Ｌｖ.２</color>=Exciting yin and yang <color\=#dc3096>Ｌｖ.２</color>
-わくわく陰陽 <color\=#dc3096>Ｌｖ.３</color>=Exciting yin and yang <color\=#dc3096>Ｌｖ.３</color>
-わくわく陰陽 <color\=#dc3096>Ｌｖ.４</color>=Exciting yin and yang <color\=#dc3096>Ｌｖ.４</color>
-勅命 <color\=#dc3096>Ｌｖ.１</color>=Imperial command <color\=#dc3096>Ｌｖ.１</color>
-勅命 <color\=#dc3096>Ｌｖ.２</color>=Imperial command <color\=#dc3096>Ｌｖ.２</color>
-羅神岩 <color\=#dc3096>Ｌｖ.１</color>=Rajin Rock <color\=#dc3096>Ｌｖ.１</color>
-羅神岩 <color\=#dc3096>Ｌｖ.２</color>=Rajin Rock <color\=#dc3096>Ｌｖ.２</color>
-勅命 <color\=#dc3096>Ｌｖ.３</color>=Imperial command <color\=#dc3096>Ｌｖ.３</color>
-勅命 <color\=#dc3096>Ｌｖ.４</color>=Imperial command <color\=#dc3096>Ｌｖ.４</color>
-羅神岩 <color\=#dc3096>Ｌｖ.３</color>=Rajin Rock <color\=#dc3096>Ｌｖ.３</color>
-羅神岩 <color\=#dc3096>Ｌｖ.４</color>=Rajin Rock <color\=#dc3096>Ｌｖ.４</color>
+曼珠沙華 <color\=#dc3096>Ｌｖ.１</color>=Manjushage <color\=#dc3096>Ｌｖ.１</color>
+曼珠沙華 <color\=#dc3096>Ｌｖ.２</color>=Manjushage <color\=#dc3096>Ｌｖ.２</color>
+曼珠沙華 <color\=#dc3096>Ｌｖ.３</color>=Manjushage <color\=#dc3096>Ｌｖ.３</color>
+曼珠沙華 <color\=#dc3096>Ｌｖ.４</color>=Manjushage <color\=#dc3096>Ｌｖ.４</color>
+ドラゴンフルーツ <color\=#dc3096>Ｌｖ.１</color>=Dragon Fruit <color\=#dc3096>Ｌｖ.１</color>
+ドラゴンフルーツ <color\=#dc3096>Ｌｖ.２</color>=Dragon Fruit <color\=#dc3096>Ｌｖ.２</color>
+ドラゴンフルーツ <color\=#dc3096>Ｌｖ.３</color>=Dragon Fruit <color\=#dc3096>Ｌｖ.３</color>
+ドラゴンフルーツ <color\=#dc3096>Ｌｖ.４</color>=Dragon Fruit <color\=#dc3096>Ｌｖ.４</color>
+チーム速度上昇 <color\=#dc3096>Ｌｖ.１</color>=Team Speed Up <color\=#dc3096>Ｌｖ.１</color>
+チーム速度上昇 <color\=#dc3096>Ｌｖ.２</color>=Team Speed Up <color\=#dc3096>Ｌｖ.２</color>
+チーム速度上昇 <color\=#dc3096>Ｌｖ.３</color>=Team Speed Up <color\=#dc3096>Ｌｖ.３</color>
+チーム速度上昇 <color\=#dc3096>Ｌｖ.４</color>=Team Speed Up <color\=#dc3096>Ｌｖ.４</color>
+ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.１</color>=Dash Gauge Dash <color\=#dc3096>Ｌｖ.１</color>
+ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.２</color>=Dash Gauge Dash <color\=#dc3096>Ｌｖ.２</color>
+ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.３</color>=Dash Gauge Dash <color\=#dc3096>Ｌｖ.３</color>
+ダッシュゲージダッシュ <color\=#dc3096>Ｌｖ.４</color>=Dash Gauge Dash <color\=#dc3096>Ｌｖ.４</color>
+スローチェイス <color\=#dc3096>Ｌｖ.１</color>=Slow Chase <color\=#dc3096>Ｌｖ.１</color>
+スローチェイス <color\=#dc3096>Ｌｖ.２</color>=Slow Chase <color\=#dc3096>Ｌｖ.２</color>
+スローチェイス <color\=#dc3096>Ｌｖ.３</color>=Slow Chase <color\=#dc3096>Ｌｖ.３</color>
+スローチェイス <color\=#dc3096>Ｌｖ.４</color>=Slow Chase <color\=#dc3096>Ｌｖ.４</color>
+シェアサーチ <color\=#dc3096>Ｌｖ.１</color>=Share Search <color\=#dc3096>Ｌｖ.１</color>
+シェアサーチ <color\=#dc3096>Ｌｖ.２</color>=Share Search <color\=#dc3096>Ｌｖ.２</color>
+シェアサーチ <color\=#dc3096>Ｌｖ.３</color>=Share Search <color\=#dc3096>Ｌｖ.３</color>
+シェアサーチ <color\=#dc3096>Ｌｖ.４</color>=Share Search <color\=#dc3096>Ｌｖ.４</color>
+罪と罰 <color\=#dc3096>Ｌｖ.１</color>=Crime and Punishment <color\=#dc3096>Ｌｖ.１</color>
+罪と罰 <color\=#dc3096>Ｌｖ.２</color>=Crime and Punishment <color\=#dc3096>Ｌｖ.２</color>
+罪と罰 <color\=#dc3096>Ｌｖ.３</color>=Crime and Punishment <color\=#dc3096>Ｌｖ.３</color>
+罪と罰 <color\=#dc3096>Ｌｖ.４</color>=Crime and Punishment <color\=#dc3096>Ｌｖ.４</color>
+わくわく陰陽 <color\=#dc3096>Ｌｖ.１</color>=Thrilling Yin-Yang <color\=#dc3096>Ｌｖ.１</color>
+わくわく陰陽 <color\=#dc3096>Ｌｖ.２</color>=Thrilling Yin-Yang <color\=#dc3096>Ｌｖ.２</color>
+わくわく陰陽 <color\=#dc3096>Ｌｖ.３</color>=Thrilling Yin-Yang <color\=#dc3096>Ｌｖ.３</color>
+わくわく陰陽 <color\=#dc3096>Ｌｖ.４</color>=Thrilling Yin-Yang <color\=#dc3096>Ｌｖ.４</color>
+勅命 <color\=#dc3096>Ｌｖ.１</color>=Imperial Command <color\=#dc3096>Ｌｖ.１</color>
+勅命 <color\=#dc3096>Ｌｖ.２</color>=Imperial Command <color\=#dc3096>Ｌｖ.２</color>
+羅神岩 <color\=#dc3096>Ｌｖ.１</color>=Rashin Rock <color\=#dc3096>Ｌｖ.１</color>
+羅神岩 <color\=#dc3096>Ｌｖ.２</color>=Rashin Rock <color\=#dc3096>Ｌｖ.２</color>
+勅命 <color\=#dc3096>Ｌｖ.３</color>=Imperial Command <color\=#dc3096>Ｌｖ.３</color>
+勅命 <color\=#dc3096>Ｌｖ.４</color>=Imperial Command <color\=#dc3096>Ｌｖ.４</color>
+羅神岩 <color\=#dc3096>Ｌｖ.３</color>=Rashin Rock <color\=#dc3096>Ｌｖ.３</color>
+羅神岩 <color\=#dc3096>Ｌｖ.４</color>=Rashin Rock <color\=#dc3096>Ｌｖ.４</color>
