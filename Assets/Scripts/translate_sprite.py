@@ -25,7 +25,8 @@ import sys
 from pathlib import Path
 
 # Load .env from the project root (two levels up from Assets/Scripts/)
-_env_file = Path(__file__).parent.parent.parent / ".env"
+_project_root = Path(__file__).parent.parent.parent
+_env_file = _project_root / ".env"
 if _env_file.exists():
     for _line in _env_file.read_text().splitlines():
         _line = _line.strip()
@@ -37,7 +38,11 @@ import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
 # ── Config ────────────────────────────────────────────────────────────────────
-FONT_PATH = Path(os.environ.get("FONT_PATH", "TCG2SAB.ttf"))
+def _resolve(p: str, default: str) -> Path:
+    path = Path(os.environ.get(p, default))
+    return path if path.is_absolute() else _project_root / path
+
+FONT_PATH = _resolve("FONT_PATH", "Assets/Fonts/TCG2SAB.ttf")
 
 SUPPORTED_EXTS = {".png", ".jpg", ".jpeg", ".webp"}
 IOU_THRESHOLD  = 0.5
