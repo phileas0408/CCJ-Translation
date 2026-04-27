@@ -205,7 +205,7 @@ def get_scene(fname):
         return 'chat'
     if fname.startswith('ui_stage_name_'):
         return 'stage'
-    if fname.startswith('body_') or fname.startswith('headacc_') or fname.startswith('shoes_') or fname.startswith('weapon_') or fname.startswith('other_'):
+    if fname.startswith('body_') or fname.startswith('headacc_') or fname.startswith('shoes_') or fname.startswith('weapon_') or fname.startswith('other_') or fname.startswith('cd_'):
         return 'item_dressup'
     if fname.startswith('ui_consume') or fname.startswith('ui_dress'):
         return 'item_obtain'
